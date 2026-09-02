@@ -25,7 +25,7 @@ OUTPUT = pathlib.Path("docs/data.json")
 
 LEAGUES = [
     {"key": "league_a", "name": "ETU League A", "id": 1225572244},
-    {"key": "league_b", "name": "ETU League B", "id": None},  # <-- fill in
+    {"key": "league_b", "name": "ETU League B", "id": 1237185906},
 ]
 
 # The cross-league championship has no ESPN equivalent, so it lives here.
