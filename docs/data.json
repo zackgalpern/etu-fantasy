@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T15:47:58.392656+00:00",
+  "updated": "2026-09-04T15:46:33.782211+00:00",
   "season": 2026,
   "super_bowl": {
     "scheduled": false,
@@ -242,7 +242,7 @@
               "position": "RB",
               "pro_team": "CHI",
               "slot": "RB",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 195.11
@@ -438,7 +438,7 @@
               "position": "WR",
               "pro_team": "IND",
               "slot": "BE",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 155.46
@@ -574,7 +574,7 @@
               "position": "WR",
               "pro_team": "CHI",
               "slot": "WR",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 183.62
@@ -2191,7 +2191,7 @@
               "position": "WR",
               "pro_team": "IND",
               "slot": "BE",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 155.46
@@ -2894,7 +2894,7 @@
               "name": "Zach Charbonnet",
               "position": "RB",
               "pro_team": "SEA",
-              "slot": "BE",
+              "slot": "IR",
               "injury_status": "OUT",
               "acquisition": "DRAFT",
               "points": 0.0,
@@ -2939,6 +2939,16 @@
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 98.06
+            },
+            {
+              "name": "Tre Tucker",
+              "position": "WR",
+              "pro_team": "LV",
+              "slot": "BE",
+              "injury_status": "ACTIVE",
+              "acquisition": "ADD",
+              "points": 0.0,
+              "projected": 113.79
             }
           ]
         },
@@ -3167,7 +3177,7 @@
               "position": "WR",
               "pro_team": "CHI",
               "slot": "WR",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 183.62
@@ -3665,7 +3675,7 @@
               "position": "RB",
               "pro_team": "CHI",
               "slot": "RB",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 195.11
