@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T15:46:33.782211+00:00",
+  "updated": "2026-09-05T14:36:31.631749+00:00",
   "season": 2026,
   "super_bowl": {
     "scheduled": false,
@@ -2931,16 +2931,6 @@
               "projected": 242.54
             },
             {
-              "name": "Alvin Kamara",
-              "position": "RB",
-              "pro_team": "NO",
-              "slot": "BE",
-              "injury_status": "QUESTIONABLE",
-              "acquisition": "DRAFT",
-              "points": 0.0,
-              "projected": 98.06
-            },
-            {
               "name": "Tre Tucker",
               "position": "WR",
               "pro_team": "LV",
@@ -2949,6 +2939,16 @@
               "acquisition": "ADD",
               "points": 0.0,
               "projected": 113.79
+            },
+            {
+              "name": "Jordyn Tyson",
+              "position": "WR",
+              "pro_team": "NO",
+              "slot": "BE",
+              "injury_status": "INJURY_RESERVE",
+              "acquisition": "ADD",
+              "points": 0.0,
+              "projected": 82.01
             }
           ]
         },
