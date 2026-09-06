@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T14:36:31.631749+00:00",
+  "updated": "2026-09-06T14:56:18.903840+00:00",
   "season": 2026,
   "super_bowl": {
     "scheduled": false,
@@ -3362,7 +3362,7 @@
               "name": "Marvin Harrison Jr.",
               "position": "WR",
               "pro_team": "ARI",
-              "slot": "RB/WR/TE",
+              "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 0.0,
@@ -3382,7 +3382,7 @@
               "name": "Rico Dowdle",
               "position": "RB",
               "pro_team": "PIT",
-              "slot": "BE",
+              "slot": "RB/WR/TE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 0.0,
