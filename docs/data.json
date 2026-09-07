@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T14:56:18.903840+00:00",
+  "updated": "2026-09-07T17:15:45.917248+00:00",
   "season": 2026,
   "super_bowl": {
     "scheduled": false,
@@ -2170,7 +2170,7 @@
               "name": "Michael Pittman Jr.",
               "position": "WR",
               "pro_team": "PIT",
-              "slot": "RB/WR/TE",
+              "slot": "BE",
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 0.0,
@@ -2180,7 +2180,7 @@
               "name": "Tony Pollard",
               "position": "RB",
               "pro_team": "TEN",
-              "slot": "BE",
+              "slot": "RB/WR/TE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 0.0,
@@ -3296,10 +3296,10 @@
         },
         {
           "id": 8,
-          "name": "Hugenballers",
-          "abbrev": "HB",
+          "name": "Hannah Amontana",
+          "abbrev": "EH",
           "owner": "Elizabeth Hugenberg",
-          "logo": "https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_15.svg",
+          "logo": "https://g.espncdn.com/lm-static/logo-packs/ffl/1stStringAllStars-SportsManias-WR/stbrown-01.svg",
           "wins": 0,
           "losses": 0,
           "ties": 0,
@@ -4152,7 +4152,7 @@
             "home_id": 3,
             "home_owner": "Grant Esler",
             "home_score": 0.0,
-            "away": "Hugenballers",
+            "away": "Hannah Amontana",
             "away_id": 8,
             "away_owner": "Elizabeth Hugenberg",
             "away_score": 0.0
