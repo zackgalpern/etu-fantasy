@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T16:00:04.820992+00:00",
+  "updated": "2026-09-09T15:55:55.768882+00:00",
   "season": 2026,
   "super_bowl": {
     "scheduled": false,
@@ -36,7 +36,7 @@
               "position": "WR",
               "pro_team": "LAR",
               "slot": "WR",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 292.03
@@ -55,7 +55,7 @@
               "name": "Javonte Williams",
               "position": "RB",
               "pro_team": "DAL",
-              "slot": "RB",
+              "slot": "RB/WR/TE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 0.0,
@@ -75,7 +75,7 @@
               "name": "DJ Moore",
               "position": "WR",
               "pro_team": "BUF",
-              "slot": "RB/WR/TE",
+              "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 0.0,
@@ -85,7 +85,7 @@
               "name": "Rhamondre Stevenson",
               "position": "RB",
               "pro_team": "NE",
-              "slot": "BE",
+              "slot": "RB",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 0.0,
@@ -534,7 +534,7 @@
               "position": "RB",
               "pro_team": "SF",
               "slot": "RB",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 302.08
@@ -584,7 +584,7 @@
               "position": "WR",
               "pro_team": "SF",
               "slot": "RB/WR/TE",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 151.68
@@ -926,7 +926,7 @@
               "position": "RB",
               "pro_team": "NE",
               "slot": "BE",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "OUT",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 169.28
@@ -1298,7 +1298,7 @@
               "position": "WR",
               "pro_team": "SF",
               "slot": "BE",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 133.95
@@ -1500,16 +1500,6 @@
               "projected": 268.27
             },
             {
-              "name": "Juwan Johnson",
-              "position": "TE",
-              "pro_team": "NO",
-              "slot": "BE",
-              "injury_status": "ACTIVE",
-              "acquisition": "DRAFT",
-              "points": 0.0,
-              "projected": 114.45
-            },
-            {
               "name": "Seahawks D/ST",
               "position": "D/ST",
               "pro_team": "SEA",
@@ -1518,6 +1508,16 @@
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 122.29
+            },
+            {
+              "name": "Keenan Allen",
+              "position": "WR",
+              "pro_team": "IND",
+              "slot": "BE",
+              "injury_status": "ACTIVE",
+              "acquisition": "ADD",
+              "points": 0.0,
+              "projected": 96.7
             }
           ]
         },
@@ -1881,7 +1881,7 @@
               "name": "James Cook III",
               "position": "RB",
               "pro_team": "BUF",
-              "slot": "RB",
+              "slot": "RB/WR/TE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 0.0,
@@ -1921,7 +1921,7 @@
               "name": "Jadarian Price",
               "position": "RB",
               "pro_team": "SEA",
-              "slot": "RB/WR/TE",
+              "slot": "RB",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 0.0,
@@ -2513,7 +2513,7 @@
               "position": "RB",
               "pro_team": "NE",
               "slot": "BE",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "OUT",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 169.28
@@ -2523,7 +2523,7 @@
               "position": "WR",
               "pro_team": "SF",
               "slot": "BE",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 151.68
@@ -2629,7 +2629,7 @@
               "position": "RB",
               "pro_team": "SF",
               "slot": "RB",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 302.08
@@ -3745,7 +3745,7 @@
               "position": "WR",
               "pro_team": "SF",
               "slot": "BE",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 133.95
@@ -3785,7 +3785,7 @@
               "position": "TE",
               "pro_team": "LAR",
               "slot": "BE",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 112.73
@@ -3977,7 +3977,7 @@
               "position": "WR",
               "pro_team": "LAR",
               "slot": "WR",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 292.03
