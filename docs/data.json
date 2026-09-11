@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T15:51:08.400152+00:00",
+  "updated": "2026-09-11T15:53:00.984665+00:00",
   "season": 2026,
   "super_bowl": {
     "scheduled": false,
@@ -38,7 +38,7 @@
               "slot": "WR",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 9.9,
               "projected": 292.02
             },
             {
@@ -128,7 +128,7 @@
               "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 5.4,
               "projected": 150.93
             },
             {
@@ -234,7 +234,7 @@
               "slot": "RB/WR/TE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 4.1,
               "projected": 198.4
             },
             {
@@ -264,7 +264,7 @@
               "slot": "TE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 2.2,
               "projected": 155.03
             },
             {
@@ -292,7 +292,7 @@
               "position": "QB",
               "pro_team": "KC",
               "slot": "BE",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 290.96
@@ -504,14 +504,14 @@
               "projected": 148.77
             },
             {
-              "name": "Browns D/ST",
+              "name": "Titans D/ST",
               "position": "D/ST",
-              "pro_team": "CLE",
+              "pro_team": "TEN",
               "slot": "D/ST",
               "injury_status": "NORMAL",
-              "acquisition": "DRAFT",
+              "acquisition": "ADD",
               "points": 0.0,
-              "projected": 103.95
+              "projected": 68.36
             }
           ]
         },
@@ -536,7 +536,7 @@
               "slot": "RB",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 11.3,
               "projected": 302.09
             },
             {
@@ -586,7 +586,7 @@
               "slot": "RB/WR/TE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 13.9,
               "projected": 151.69
             },
             {
@@ -686,7 +686,7 @@
               "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
-              "points": 0.0,
+              "points": 7.5,
               "projected": 56.23
             }
           ]
@@ -732,7 +732,7 @@
               "slot": "RB",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 14.0,
               "projected": 215.28
             },
             {
@@ -968,7 +968,7 @@
               "slot": "K",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 1.0,
               "projected": 159.43
             },
             {
@@ -978,7 +978,7 @@
               "slot": "D/ST",
               "injury_status": "NORMAL",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 1.0,
               "projected": 124.37
             },
             {
@@ -1280,7 +1280,7 @@
               "slot": "QB",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 4.1,
               "projected": 292.84
             },
             {
@@ -1298,7 +1298,7 @@
               "position": "WR",
               "pro_team": "SF",
               "slot": "BE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 133.96
@@ -1384,7 +1384,7 @@
               "position": "TE",
               "pro_team": "LV",
               "slot": "BE",
-              "injury_status": "DOUBTFUL",
+              "injury_status": "OUT",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 178.95
@@ -1798,7 +1798,7 @@
               "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 21.1,
               "projected": 291.6
             },
             {
@@ -1828,7 +1828,7 @@
               "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 15.0,
               "projected": 125.65
             },
             {
@@ -1912,7 +1912,7 @@
               "position": "WR",
               "pro_team": "BAL",
               "slot": "WR",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 197.62
@@ -2014,7 +2014,7 @@
               "slot": "K",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 10.0,
               "projected": 155.13
             },
             {
@@ -2317,7 +2317,7 @@
               "position": "QB",
               "pro_team": "KC",
               "slot": "QB",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 290.96
@@ -2359,7 +2359,7 @@
               "slot": "TE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 2.2,
               "projected": 155.03
             },
             {
@@ -2369,7 +2369,7 @@
               "slot": "D/ST",
               "injury_status": "NORMAL",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 1.0,
               "projected": 124.37
             },
             {
@@ -2379,7 +2379,7 @@
               "slot": "RB/WR/TE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 5.4,
               "projected": 150.93
             },
             {
@@ -2485,7 +2485,7 @@
               "slot": "RB",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 14.0,
               "projected": 215.28
             },
             {
@@ -2525,7 +2525,7 @@
               "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 13.9,
               "projected": 151.69
             },
             {
@@ -2565,7 +2565,7 @@
               "slot": "QB",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 4.1,
               "projected": 292.84
             },
             {
@@ -2631,7 +2631,7 @@
               "slot": "RB",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 11.3,
               "projected": 302.09
             },
             {
@@ -2659,7 +2659,7 @@
               "position": "WR",
               "pro_team": "BAL",
               "slot": "WR",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 197.62
@@ -2721,7 +2721,7 @@
               "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 21.1,
               "projected": 291.6
             },
             {
@@ -2731,7 +2731,7 @@
               "slot": "K",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 10.0,
               "projected": 155.13
             },
             {
@@ -2741,7 +2741,7 @@
               "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 15.0,
               "projected": 125.65
             },
             {
@@ -2925,7 +2925,7 @@
               "position": "QB",
               "pro_team": "SEA",
               "slot": "BE",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "DOUBTFUL",
               "acquisition": "DRAFT",
               "points": 0.52,
               "projected": 242.53
@@ -3003,7 +3003,7 @@
               "slot": "WR",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 4.1,
               "projected": 198.4
             },
             {
@@ -3157,7 +3157,7 @@
               "position": "TE",
               "pro_team": "LV",
               "slot": "BE",
-              "injury_status": "DOUBTFUL",
+              "injury_status": "OUT",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 178.95
@@ -3745,7 +3745,7 @@
               "position": "WR",
               "pro_team": "SF",
               "slot": "BE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 133.96
@@ -3923,7 +3923,7 @@
               "slot": "K",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 1.0,
               "projected": 159.43
             },
             {
@@ -3979,7 +3979,7 @@
               "slot": "WR",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 0.0,
+              "points": 9.9,
               "projected": 292.02
             },
             {
