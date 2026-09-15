@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T09:07:21.010853+00:00",
+  "updated": "2026-09-15T16:16:44.443224+00:00",
   "season": 2026,
   "super_bowl": {
     "scheduled": false,
@@ -926,7 +926,7 @@
               "position": "RB",
               "pro_team": "NE",
               "slot": "BE",
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 137.65
@@ -986,7 +986,7 @@
               "position": "WR",
               "pro_team": "TB",
               "slot": "BE",
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 94.89
@@ -1162,7 +1162,7 @@
               "position": "RB",
               "pro_team": "NO",
               "slot": "BE",
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 103.71
@@ -1384,7 +1384,7 @@
               "position": "TE",
               "pro_team": "LV",
               "slot": "BE",
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 178.74
@@ -1856,7 +1856,7 @@
               "position": "RB",
               "pro_team": "TB",
               "slot": "BE",
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "ADD",
               "points": 0.0,
               "projected": 33.76
@@ -2575,7 +2575,7 @@
               "position": "RB",
               "pro_team": "NE",
               "slot": "BE",
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 137.65
@@ -3219,7 +3219,7 @@
               "position": "TE",
               "pro_team": "LV",
               "slot": "BE",
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 178.74
@@ -4159,7 +4159,7 @@
               "position": "WR",
               "pro_team": "TB",
               "slot": "BE",
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 0.0,
               "projected": 94.89
