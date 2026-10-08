@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T18:26:39.563661+00:00",
+  "updated": "2026-10-08T18:26:02.599412+00:00",
   "season": 2026,
   "super_bowl": {
     "scheduled": false,
@@ -242,7 +242,7 @@
               "position": "RB",
               "pro_team": "CHI",
               "slot": "RB",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 58.5,
               "projected": 158.92
@@ -312,7 +312,7 @@
               "position": "QB",
               "pro_team": "NO",
               "slot": "BE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 85.32,
               "projected": 240.99
@@ -378,7 +378,7 @@
               "position": "RB",
               "pro_team": "NYG",
               "slot": "RB",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 40.2,
               "projected": 150.18
@@ -501,7 +501,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 31.7,
-              "projected": 93.3
+              "projected": 93.04
             },
             {
               "name": "Malik Washington",
@@ -594,7 +594,7 @@
               "position": "WR",
               "pro_team": "SF",
               "slot": "WR",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 41.8,
               "projected": 145.47
@@ -623,7 +623,7 @@
               "name": "RJ Harvey",
               "position": "RB",
               "pro_team": "DEN",
-              "slot": "BE",
+              "slot": "RB/WR/TE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 28.1,
@@ -654,7 +654,7 @@
               "position": "RB",
               "pro_team": "SF",
               "slot": "BE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "ADD",
               "points": 13.0,
               "projected": 60.8
@@ -673,7 +673,7 @@
               "name": "TreVeyon Henderson",
               "position": "RB",
               "pro_team": "NE",
-              "slot": "RB/WR/TE",
+              "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "TRADE",
               "points": 21.2,
@@ -690,14 +690,14 @@
               "projected": 207.44
             },
             {
-              "name": "Cowboys D/ST",
+              "name": "Commanders D/ST",
               "position": "D/ST",
-              "pro_team": "DAL",
+              "pro_team": "WSH",
               "slot": "D/ST",
               "injury_status": "NORMAL",
               "acquisition": "ADD",
-              "points": 1.0,
-              "projected": 48.31
+              "points": 17.0,
+              "projected": 62.06
             }
           ]
         },
@@ -803,14 +803,14 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 11.0,
-              "projected": 77.74
+              "projected": 77.48
             },
             {
               "name": "Jacory Croskey-Merritt",
               "position": "RB",
               "pro_team": "WSH",
               "slot": "BE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 28.2,
               "projected": 100.99
@@ -873,7 +873,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 9.5,
-              "projected": 70.31
+              "projected": 70.21
             }
           ]
         },
@@ -1102,7 +1102,7 @@
               "position": "QB",
               "pro_team": "WSH",
               "slot": "QB",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 32.4,
               "projected": 258.15
@@ -1122,7 +1122,7 @@
               "position": "RB",
               "pro_team": "TEN",
               "slot": "RB",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 34.5,
               "projected": 158.61
@@ -1182,7 +1182,7 @@
               "position": "RB",
               "pro_team": "NO",
               "slot": "BE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 29.6,
               "projected": 97.55
@@ -1268,7 +1268,7 @@
               "position": "WR",
               "pro_team": "NYG",
               "slot": "RB/WR/TE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 35.8,
               "projected": 140.92
@@ -1434,7 +1434,7 @@
               "position": "TE",
               "pro_team": "LV",
               "slot": "TE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 40.2,
               "projected": 167.95
@@ -1846,7 +1846,7 @@
               "position": "TE",
               "pro_team": "NYG",
               "slot": "TE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 42.0,
               "projected": 130.96
@@ -1962,7 +1962,7 @@
               "position": "WR",
               "pro_team": "BAL",
               "slot": "RB/WR/TE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 58.2,
               "projected": 175.6
@@ -1992,7 +1992,7 @@
               "position": "WR",
               "pro_team": "PIT",
               "slot": "BE",
-              "injury_status": "ACTIVE",
+              "injury_status": "OUT",
               "acquisition": "DRAFT",
               "points": 12.4,
               "projected": 84.34
@@ -2012,7 +2012,7 @@
               "position": "WR",
               "pro_team": "MIN",
               "slot": "BE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 27.7,
               "projected": 117.12
@@ -2022,10 +2022,10 @@
               "position": "TE",
               "pro_team": "PHI",
               "slot": "BE",
-              "injury_status": "DOUBTFUL",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 22.6,
-              "projected": 104.0
+              "projected": 112.48
             },
             {
               "name": "Jordan Mason",
@@ -2479,7 +2479,7 @@
               "position": "WR",
               "pro_team": "PIT",
               "slot": "BE",
-              "injury_status": "ACTIVE",
+              "injury_status": "OUT",
               "acquisition": "DRAFT",
               "points": 12.4,
               "projected": 84.34
@@ -2489,7 +2489,7 @@
               "position": "RB",
               "pro_team": "TEN",
               "slot": "BE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 34.5,
               "projected": 158.61
@@ -2821,7 +2821,7 @@
               "position": "WR",
               "pro_team": "SF",
               "slot": "WR",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 41.8,
               "projected": 145.47
@@ -2851,7 +2851,7 @@
               "position": "WR",
               "pro_team": "LAC",
               "slot": "BE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 14.6,
               "projected": 79.19
@@ -2957,7 +2957,7 @@
               "position": "WR",
               "pro_team": "NYG",
               "slot": "WR",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 35.8,
               "projected": 140.92
@@ -2967,7 +2967,7 @@
               "position": "WR",
               "pro_team": "BAL",
               "slot": "BE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 58.2,
               "projected": 175.6
@@ -3017,10 +3017,10 @@
               "position": "TE",
               "pro_team": "PHI",
               "slot": "BE",
-              "injury_status": "DOUBTFUL",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 22.6,
-              "projected": 104.0
+              "projected": 112.48
             },
             {
               "name": "Brock Purdy",
@@ -3196,7 +3196,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 11.0,
-              "projected": 77.74
+              "projected": 77.48
             },
             {
               "name": "Zach Charbonnet",
@@ -3475,7 +3475,7 @@
               "position": "TE",
               "pro_team": "LV",
               "slot": "TE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 40.2,
               "projected": 167.95
@@ -3484,7 +3484,7 @@
               "name": "Emeka Egbuka",
               "position": "WR",
               "pro_team": "TB",
-              "slot": "WR",
+              "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 28.6,
@@ -3534,7 +3534,7 @@
               "name": "Romeo Doubs",
               "position": "WR",
               "pro_team": "NE",
-              "slot": "BE",
+              "slot": "WR",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 38.3,
@@ -3578,7 +3578,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 31.7,
-              "projected": 93.3
+              "projected": 93.04
             },
             {
               "name": "Spencer Shrader",
@@ -3595,7 +3595,7 @@
               "position": "QB",
               "pro_team": "WSH",
               "slot": "QB",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 32.4,
               "projected": 258.15
@@ -3608,7 +3608,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 9.5,
-              "projected": 70.31
+              "projected": 70.21
             }
           ]
         },
@@ -3661,7 +3661,7 @@
               "position": "RB",
               "pro_team": "NYG",
               "slot": "RB",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 40.2,
               "projected": 150.18
@@ -3877,7 +3877,7 @@
               "position": "WR",
               "pro_team": "MIN",
               "slot": "WR",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 27.7,
               "projected": 117.12
@@ -3896,7 +3896,7 @@
               "name": "Broncos D/ST",
               "position": "D/ST",
               "pro_team": "DEN",
-              "slot": "BE",
+              "slot": "D/ST",
               "injury_status": "NORMAL",
               "acquisition": "DRAFT",
               "points": 21.0,
@@ -3936,7 +3936,7 @@
               "name": "Lions D/ST",
               "position": "D/ST",
               "pro_team": "DET",
-              "slot": "D/ST",
+              "slot": "BE",
               "injury_status": "NORMAL",
               "acquisition": "DRAFT",
               "points": 7.0,
@@ -3947,7 +3947,7 @@
               "position": "RB",
               "pro_team": "NO",
               "slot": "RB",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "ADD",
               "points": 29.6,
               "projected": 97.55
@@ -3972,7 +3972,7 @@
               "name": "Justin Jefferson",
               "position": "WR",
               "pro_team": "MIN",
-              "slot": "BE",
+              "slot": "WR",
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 38.4,
@@ -4003,7 +4003,7 @@
               "position": "RB",
               "pro_team": "CHI",
               "slot": "RB",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 58.5,
               "projected": 158.92
@@ -4022,7 +4022,7 @@
               "name": "Tucker Kraft",
               "position": "TE",
               "pro_team": "GB",
-              "slot": "TE",
+              "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 28.6,
@@ -4042,8 +4042,8 @@
               "name": "Isaiah Likely",
               "position": "TE",
               "pro_team": "NYG",
-              "slot": "RB/WR/TE",
-              "injury_status": "ACTIVE",
+              "slot": "TE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 42.0,
               "projected": 130.96
@@ -4073,7 +4073,7 @@
               "position": "QB",
               "pro_team": "NO",
               "slot": "QB",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "ADD",
               "points": 85.32,
               "projected": 240.99
@@ -4082,7 +4082,7 @@
               "name": "Denzel Boston",
               "position": "WR",
               "pro_team": "CLE",
-              "slot": "WR",
+              "slot": "RB/WR/TE",
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 48.9,
@@ -4239,7 +4239,7 @@
               "position": "RB",
               "pro_team": "WSH",
               "slot": "BE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 28.2,
               "projected": 100.99
@@ -4279,7 +4279,7 @@
               "position": "RB",
               "pro_team": "SF",
               "slot": "BE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "ADD",
               "points": 13.0,
               "projected": 60.8
