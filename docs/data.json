@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T16:19:53.309284+00:00",
+  "updated": "2026-10-16T16:06:08.716932+00:00",
   "season": 2026,
   "super_bowl": {
     "scheduled": false,
@@ -39,7 +39,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 62.3,
-              "projected": 214.18
+              "projected": 214.1
             },
             {
               "name": "Ashton Jeanty",
@@ -49,7 +49,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 73.6,
-              "projected": 181.44
+              "projected": 184.02
             },
             {
               "name": "Javonte Williams",
@@ -59,7 +59,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 87.5,
-              "projected": 189.56
+              "projected": 189.29
             },
             {
               "name": "Emeka Egbuka",
@@ -69,7 +69,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 42.8,
-              "projected": 116.85
+              "projected": 118.49
             },
             {
               "name": "DJ Moore",
@@ -79,7 +79,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 30.3,
-              "projected": 130.07
+              "projected": 129.53
             },
             {
               "name": "Rhamondre Stevenson",
@@ -89,7 +89,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 53.3,
-              "projected": 141.13
+              "projected": 138.07
             },
             {
               "name": "Sam LaPorta",
@@ -99,7 +99,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 63.1,
-              "projected": 122.95
+              "projected": 123.55
             },
             {
               "name": "Michael Wilson",
@@ -109,7 +109,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 49.58,
-              "projected": 146.48
+              "projected": 146.12
             },
             {
               "name": "Trevor Lawrence",
@@ -129,7 +129,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 53.3,
-              "projected": 93.91
+              "projected": 96.34
             },
             {
               "name": "Ollie Gordon II",
@@ -139,7 +139,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 45.5,
-              "projected": 143.33
+              "projected": 142.39
             },
             {
               "name": "Spencer Shrader",
@@ -159,7 +159,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 49.7,
-              "projected": 76.63
+              "projected": 76.4
             },
             {
               "name": "Chiefs D/ST",
@@ -179,7 +179,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 20.9,
-              "projected": 93.13
+              "projected": 80.14
             }
           ]
         },
@@ -205,7 +205,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 140.2,
-              "projected": 284.07
+              "projected": 283.88
             },
             {
               "name": "Nico Collins",
@@ -215,7 +215,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 53.1,
-              "projected": 158.85
+              "projected": 163.24
             },
             {
               "name": "Chris Olave",
@@ -225,7 +225,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 79.2,
-              "projected": 159.85
+              "projected": 158.34
             },
             {
               "name": "Davante Adams",
@@ -235,7 +235,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 81.6,
-              "projected": 154.84
+              "projected": 155.54
             },
             {
               "name": "D'Andre Swift",
@@ -245,7 +245,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 73.8,
-              "projected": 153.08
+              "projected": 154.47
             },
             {
               "name": "Dak Prescott",
@@ -255,7 +255,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 93.84,
-              "projected": 208.33
+              "projected": 208.24
             },
             {
               "name": "George Kittle",
@@ -265,7 +265,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 61.3,
-              "projected": 137.21
+              "projected": 136.82
             },
             {
               "name": "Josh Jacobs",
@@ -275,7 +275,7 @@
               "injury_status": "DAY_TO_DAY",
               "acquisition": "DRAFT",
               "points": 0.0,
-              "projected": 80.43
+              "projected": 80.48
             },
             {
               "name": "Jonathon Brooks",
@@ -304,8 +304,8 @@
               "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 65.18,
-              "projected": 184.32
+              "points": 69.66,
+              "projected": 184.34
             },
             {
               "name": "Tyler Shough",
@@ -325,7 +325,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 18.3,
-              "projected": 85.42
+              "projected": 84.6
             },
             {
               "name": "Steelers D/ST",
@@ -335,7 +335,7 @@
               "injury_status": "NORMAL",
               "acquisition": "DRAFT",
               "points": 37.0,
-              "projected": 82.37
+              "projected": 82.25
             },
             {
               "name": "Tyler Loop",
@@ -371,7 +371,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 62.7,
-              "projected": 152.59
+              "projected": 148.42
             },
             {
               "name": "Cam Skattebo",
@@ -381,7 +381,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 46.3,
-              "projected": 125.17
+              "projected": 123.23
             },
             {
               "name": "Drake Maye",
@@ -401,7 +401,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 48.6,
-              "projected": 107.39
+              "projected": 107.81
             },
             {
               "name": "Harold Fannin Jr.",
@@ -411,7 +411,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 42.7,
-              "projected": 102.31
+              "projected": 98.7
             },
             {
               "name": "Alec Pierce",
@@ -421,7 +421,7 @@
               "injury_status": "INJURY_RESERVE",
               "acquisition": "DRAFT",
               "points": 9.7,
-              "projected": 88.42
+              "projected": 69.6
             },
             {
               "name": "Rachaad White",
@@ -431,7 +431,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 28.1,
-              "projected": 83.42
+              "projected": 84.4
             },
             {
               "name": "Jakobi Meyers",
@@ -441,7 +441,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 39.9,
-              "projected": 94.67
+              "projected": 95.18
             },
             {
               "name": "Dalton Kincaid",
@@ -451,7 +451,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 41.7,
-              "projected": 75.53
+              "projected": 75.16
             },
             {
               "name": "Baker Mayfield",
@@ -481,7 +481,7 @@
               "injury_status": "NORMAL",
               "acquisition": "ADD",
               "points": 63.0,
-              "projected": 90.94
+              "projected": 90.21
             },
             {
               "name": "Malik Washington",
@@ -491,7 +491,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 38.7,
-              "projected": 105.04
+              "projected": 104.43
             },
             {
               "name": "Brian Robinson Jr.",
@@ -501,7 +501,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 48.6,
-              "projected": 84.25
+              "projected": 84.74
             },
             {
               "name": "Tyler Allgeier",
@@ -511,7 +511,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 28.3,
-              "projected": 74.44
+              "projected": 73.92
             },
             {
               "name": "Jake Bates",
@@ -547,7 +547,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 81.8,
-              "projected": 219.83
+              "projected": 213.64
             },
             {
               "name": "Trey McBride",
@@ -557,7 +557,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 69.8,
-              "projected": 167.21
+              "projected": 168.09
             },
             {
               "name": "DeVonta Smith",
@@ -567,7 +567,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 39.0,
-              "projected": 142.04
+              "projected": 130.01
             },
             {
               "name": "Quinshon Judkins",
@@ -577,7 +577,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 47.3,
-              "projected": 150.02
+              "projected": 148.48
             },
             {
               "name": "Rome Odunze",
@@ -587,17 +587,17 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 33.8,
-              "projected": 108.96
+              "projected": 107.36
             },
             {
               "name": "Mike Evans",
               "position": "WR",
               "pro_team": "SF",
               "slot": "WR",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 64.6,
-              "projected": 163.0
+              "projected": 162.07
             },
             {
               "name": "Marvin Harrison Jr.",
@@ -607,7 +607,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 17.0,
-              "projected": 34.69
+              "projected": 34.75
             },
             {
               "name": "Brian Thomas Jr.",
@@ -617,7 +617,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 21.0,
-              "projected": 65.13
+              "projected": 65.52
             },
             {
               "name": "RJ Harvey",
@@ -626,8 +626,8 @@
               "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 28.8,
-              "projected": 100.69
+              "points": 41.9,
+              "projected": 100.03
             },
             {
               "name": "Jordyn Tyson",
@@ -637,7 +637,7 @@
               "injury_status": "INJURY_RESERVE",
               "acquisition": "DRAFT",
               "points": 0.0,
-              "projected": 84.31
+              "projected": 83.59
             },
             {
               "name": "Will Reichard",
@@ -657,7 +657,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 14.6,
-              "projected": 56.85
+              "projected": 56.9
             },
             {
               "name": "Bryce Young",
@@ -667,7 +667,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 90.62,
-              "projected": 237.91
+              "projected": 237.88
             },
             {
               "name": "TreVeyon Henderson",
@@ -677,7 +677,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "TRADE",
               "points": 25.5,
-              "projected": 87.87
+              "projected": 87.72
             },
             {
               "name": "Dominic Zvada",
@@ -697,7 +697,7 @@
               "injury_status": "NORMAL",
               "acquisition": "ADD",
               "points": 36.0,
-              "projected": 90.72
+              "projected": 91.44
             }
           ]
         },
@@ -723,7 +723,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 95.6,
-              "projected": 179.95
+              "projected": 180.47
             },
             {
               "name": "Saquon Barkley",
@@ -733,7 +733,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 21.0,
-              "projected": 149.14
+              "projected": 136.84
             },
             {
               "name": "Kyren Williams",
@@ -743,7 +743,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 95.8,
-              "projected": 199.73
+              "projected": 200.98
             },
             {
               "name": "Ladd McConkey",
@@ -753,7 +753,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 30.3,
-              "projected": 100.61
+              "projected": 104.5
             },
             {
               "name": "Joe Burrow",
@@ -773,7 +773,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 36.9,
-              "projected": 114.03
+              "projected": 102.42
             },
             {
               "name": "DK Metcalf",
@@ -783,7 +783,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 39.1,
-              "projected": 118.5
+              "projected": 115.83
             },
             {
               "name": "Tucker Kraft",
@@ -793,7 +793,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 37.7,
-              "projected": 105.77
+              "projected": 107.47
             },
             {
               "name": "Makai Lemon",
@@ -803,17 +803,17 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 17.8,
-              "projected": 69.09
+              "projected": 54.3
             },
             {
               "name": "Jacory Croskey-Merritt",
               "position": "RB",
               "pro_team": "WSH",
               "slot": "BE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 42.4,
-              "projected": 95.45
+              "projected": 95.68
             },
             {
               "name": "Broncos D/ST",
@@ -822,7 +822,7 @@
               "slot": "D/ST",
               "injury_status": "NORMAL",
               "acquisition": "DRAFT",
-              "points": 35.0,
+              "points": 46.0,
               "projected": 73.19
             },
             {
@@ -843,7 +843,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 31.9,
-              "projected": 60.99
+              "projected": 60.54
             },
             {
               "name": "Tyreek Hill",
@@ -863,7 +863,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 47.34,
-              "projected": 153.04
+              "projected": 153.02
             },
             {
               "name": "Will Shipley",
@@ -873,7 +873,7 @@
               "injury_status": "DOUBTFUL",
               "acquisition": "ADD",
               "points": 17.3,
-              "projected": 46.53
+              "projected": 46.28
             }
           ]
         },
@@ -899,7 +899,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 54.2,
-              "projected": 176.61
+              "projected": 182.48
             },
             {
               "name": "Omarion Hampton",
@@ -909,7 +909,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 47.1,
-              "projected": 114.38
+              "projected": 113.87
             },
             {
               "name": "Travis Etienne Jr.",
@@ -919,7 +919,7 @@
               "injury_status": "INJURY_RESERVE",
               "acquisition": "DRAFT",
               "points": 25.4,
-              "projected": 113.49
+              "projected": 113.67
             },
             {
               "name": "Jaylen Waddle",
@@ -928,18 +928,18 @@
               "slot": "WR",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 39.7,
-              "projected": 103.06
+              "points": 44.1,
+              "projected": 98.87
             },
             {
               "name": "Jalen Hurts",
               "position": "QB",
               "pro_team": "PHI",
               "slot": "BE",
-              "injury_status": "ACTIVE",
+              "injury_status": "OUT",
               "acquisition": "DRAFT",
               "points": 80.02,
-              "projected": 205.55
+              "projected": 175.15
             },
             {
               "name": "Matthew Golden",
@@ -949,7 +949,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 66.3,
-              "projected": 149.93
+              "projected": 146.24
             },
             {
               "name": "Kyle Monangai",
@@ -959,7 +959,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 56.8,
-              "projected": 116.96
+              "projected": 107.47
             },
             {
               "name": "Rams D/ST",
@@ -978,8 +978,8 @@
               "slot": "RB/WR/TE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 23.8,
-              "projected": 89.15
+              "points": 33.1,
+              "projected": 85.67
             },
             {
               "name": "Jordan Love",
@@ -999,7 +999,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "ADD",
               "points": 33.3,
-              "projected": 74.32
+              "projected": 73.64
             },
             {
               "name": "Zach Charbonnet",
@@ -1009,7 +1009,7 @@
               "injury_status": "OUT",
               "acquisition": "TRADE",
               "points": 0.0,
-              "projected": 134.03
+              "projected": 134.09
             },
             {
               "name": "Emanuel Wilson",
@@ -1018,8 +1018,8 @@
               "slot": "RB",
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
-              "points": 48.6,
-              "projected": 22.16
+              "points": 53.8,
+              "projected": 22.14
             },
             {
               "name": "Tyler Bass",
@@ -1039,7 +1039,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 41.0,
-              "projected": 81.12
+              "projected": 81.69
             },
             {
               "name": "Pat Freiermuth",
@@ -1049,7 +1049,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 50.8,
-              "projected": 97.76
+              "projected": 107.03
             }
           ]
         },
@@ -1074,8 +1074,8 @@
               "slot": "WR",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 120.96,
-              "projected": 198.29
+              "points": 140.36,
+              "projected": 199.74
             },
             {
               "name": "A.J. Brown",
@@ -1085,7 +1085,7 @@
               "injury_status": "INJURY_RESERVE",
               "acquisition": "DRAFT",
               "points": 4.1,
-              "projected": 146.46
+              "projected": 144.16
             },
             {
               "name": "George Pickens",
@@ -1095,7 +1095,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 55.0,
-              "projected": 134.52
+              "projected": 133.58
             },
             {
               "name": "Jayden Daniels",
@@ -1105,17 +1105,17 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 64.66,
-              "projected": 261.33
+              "projected": 261.28
             },
             {
               "name": "Terry McLaurin",
               "position": "WR",
               "pro_team": "WSH",
               "slot": "RB/WR/TE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 35.3,
-              "projected": 125.49
+              "projected": 125.92
             },
             {
               "name": "Tony Pollard",
@@ -1125,17 +1125,17 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 39.7,
-              "projected": 146.85
+              "projected": 147.85
             },
             {
               "name": "Rico Dowdle",
               "position": "RB",
               "pro_team": "PIT",
               "slot": "BE",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 8.5,
-              "projected": 71.21
+              "projected": 71.12
             },
             {
               "name": "Brandon Aubrey",
@@ -1155,7 +1155,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 64.2,
-              "projected": 124.36
+              "projected": 122.65
             },
             {
               "name": "Mark Andrews",
@@ -1165,7 +1165,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 32.7,
-              "projected": 97.12
+              "projected": 93.63
             },
             {
               "name": "Xavier Worthy",
@@ -1175,7 +1175,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 26.3,
-              "projected": 107.04
+              "projected": 107.67
             },
             {
               "name": "Alvin Kamara",
@@ -1185,7 +1185,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 31.2,
-              "projected": 84.03
+              "projected": 83.59
             },
             {
               "name": "T.J. Hockenson",
@@ -1195,7 +1195,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 37.7,
-              "projected": 96.46
+              "projected": 96.5
             },
             {
               "name": "Patriots D/ST",
@@ -1215,7 +1215,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 89.18,
-              "projected": 186.17
+              "projected": 186.13
             },
             {
               "name": "Antonio Williams",
@@ -1225,7 +1225,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 29.0,
-              "projected": 53.41
+              "projected": 47.8
             }
           ]
         },
@@ -1251,7 +1251,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 90.9,
-              "projected": 195.24
+              "projected": 194.62
             },
             {
               "name": "Kenneth Walker III",
@@ -1261,7 +1261,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 104.1,
-              "projected": 266.22
+              "projected": 272.33
             },
             {
               "name": "Malik Nabers",
@@ -1271,7 +1271,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 59.4,
-              "projected": 160.57
+              "projected": 159.79
             },
             {
               "name": "Tee Higgins",
@@ -1281,7 +1281,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 61.8,
-              "projected": 145.67
+              "projected": 141.26
             },
             {
               "name": "Tyler Warren",
@@ -1291,7 +1291,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 54.9,
-              "projected": 112.38
+              "projected": 110.17
             },
             {
               "name": "Parker Washington",
@@ -1301,7 +1301,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 70.5,
-              "projected": 156.33
+              "projected": 156.96
             },
             {
               "name": "J.K. Dobbins",
@@ -1310,8 +1310,8 @@
               "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 33.6,
-              "projected": 130.41
+              "points": 45.7,
+              "projected": 130.44
             },
             {
               "name": "Matthew Stafford",
@@ -1328,10 +1328,10 @@
               "position": "WR",
               "pro_team": "IND",
               "slot": "BE",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 34.9,
-              "projected": 85.3
+              "projected": 89.56
             },
             {
               "name": "De'Zhaun Stribling",
@@ -1351,7 +1351,7 @@
               "injury_status": "NORMAL",
               "acquisition": "DRAFT",
               "points": 31.0,
-              "projected": 90.46
+              "projected": 90.35
             },
             {
               "name": "Romeo Doubs",
@@ -1361,7 +1361,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 40.4,
-              "projected": 96.97
+              "projected": 99.05
             },
             {
               "name": "Woody Marks",
@@ -1371,7 +1371,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 37.8,
-              "projected": 89.84
+              "projected": 89.16
             },
             {
               "name": "Evan McPherson",
@@ -1427,17 +1427,17 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 112.2,
-              "projected": 249.27
+              "projected": 248.23
             },
             {
               "name": "Brock Bowers",
               "position": "TE",
               "pro_team": "LV",
               "slot": "TE",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 59.2,
-              "projected": 168.59
+              "projected": 170.76
             },
             {
               "name": "Josh Allen",
@@ -1457,7 +1457,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 17.5,
-              "projected": 85.14
+              "projected": 86.48
             },
             {
               "name": "Bhayshul Tuten",
@@ -1467,7 +1467,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 59.2,
-              "projected": 162.57
+              "projected": 161.75
             },
             {
               "name": "Jaylen Warren",
@@ -1477,7 +1477,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 83.5,
-              "projected": 165.85
+              "projected": 166.37
             },
             {
               "name": "MarShawn Lloyd",
@@ -1487,17 +1487,17 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 37.7,
-              "projected": 68.41
+              "projected": 69.29
             },
             {
               "name": "Stefon Diggs",
               "position": "WR",
               "pro_team": "WSH",
-              "slot": "BE",
+              "slot": "WR",
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 44.0,
-              "projected": 101.9
+              "projected": 104.0
             },
             {
               "name": "Travis Hunter",
@@ -1507,17 +1507,17 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 3.0,
-              "projected": 11.58
+              "projected": 11.4
             },
             {
               "name": "Khalil Shakir",
               "position": "WR",
               "pro_team": "BUF",
-              "slot": "WR",
+              "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 32.6,
-              "projected": 84.01
+              "projected": 86.09
             },
             {
               "name": "Kyler Murray",
@@ -1556,8 +1556,8 @@
               "slot": "D/ST",
               "injury_status": "NORMAL",
               "acquisition": "DRAFT",
-              "points": 51.0,
-              "projected": 86.67
+              "points": 57.0,
+              "projected": 86.54
             },
             {
               "name": "Keenan Allen",
@@ -1567,7 +1567,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 29.5,
-              "projected": 76.96
+              "projected": 78.82
             }
           ]
         },
@@ -1593,7 +1593,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 85.7,
-              "projected": 193.0
+              "projected": 192.36
             },
             {
               "name": "Derrick Henry",
@@ -1603,17 +1603,17 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 107.8,
-              "projected": 236.77
+              "projected": 236.8
             },
             {
               "name": "Breece Hall",
               "position": "RB",
               "pro_team": "NYJ",
               "slot": "BE",
-              "injury_status": "DOUBTFUL",
+              "injury_status": "OUT",
               "acquisition": "DRAFT",
               "points": 37.5,
-              "projected": 156.48
+              "projected": 155.74
             },
             {
               "name": "Lamar Jackson",
@@ -1630,10 +1630,10 @@
               "position": "RB",
               "pro_team": "HOU",
               "slot": "BE",
-              "injury_status": "DOUBTFUL",
+              "injury_status": "OUT",
               "acquisition": "DRAFT",
               "points": 42.0,
-              "projected": 114.91
+              "projected": 115.49
             },
             {
               "name": "Courtland Sutton",
@@ -1642,8 +1642,8 @@
               "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 21.9,
-              "projected": 90.88
+              "points": 24.8,
+              "projected": 94.27
             },
             {
               "name": "Christian Watson",
@@ -1653,7 +1653,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 96.4,
-              "projected": 155.38
+              "projected": 151.17
             },
             {
               "name": "Travis Kelce",
@@ -1663,7 +1663,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 44.6,
-              "projected": 116.4
+              "projected": 114.28
             },
             {
               "name": "Chris Godwin Jr.",
@@ -1673,7 +1673,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 29.2,
-              "projected": 71.82
+              "projected": 66.22
             },
             {
               "name": "Jalen Coker",
@@ -1683,7 +1683,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 43.2,
-              "projected": 147.16
+              "projected": 148.51
             },
             {
               "name": "Hunter Henry",
@@ -1693,7 +1693,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 31.2,
-              "projected": 80.08
+              "projected": 78.49
             },
             {
               "name": "Cam Little",
@@ -1713,7 +1713,7 @@
               "injury_status": "NORMAL",
               "acquisition": "ADD",
               "points": 43.0,
-              "projected": 85.05
+              "projected": 84.94
             },
             {
               "name": "Jameis Winston",
@@ -1723,7 +1723,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 52.4,
-              "projected": 74.38
+              "projected": 74.33
             },
             {
               "name": "Blake Corum",
@@ -1733,7 +1733,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 34.9,
-              "projected": 87.42
+              "projected": 87.1
             }
           ]
         },
@@ -1759,7 +1759,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 66.4,
-              "projected": 212.06
+              "projected": 216.61
             },
             {
               "name": "Jeremiyah Love",
@@ -1769,17 +1769,17 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 45.6,
-              "projected": 131.71
+              "projected": 132.57
             },
             {
               "name": "Rashee Rice",
               "position": "WR",
               "pro_team": "KC",
-              "slot": "WR",
+              "slot": "BE",
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 31.5,
-              "projected": 154.86
+              "projected": 139.93
             },
             {
               "name": "Tetairoa McMillan",
@@ -1789,7 +1789,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 61.5,
-              "projected": 174.37
+              "projected": 174.27
             },
             {
               "name": "Bucky Irving",
@@ -1799,7 +1799,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 71.2,
-              "projected": 177.12
+              "projected": 178.46
             },
             {
               "name": "Kyle Pitts Sr.",
@@ -1809,17 +1809,17 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 21.9,
-              "projected": 78.98
+              "projected": 82.55
             },
             {
               "name": "Wan'Dale Robinson",
               "position": "WR",
               "pro_team": "TEN",
-              "slot": "BE",
+              "slot": "WR",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 40.7,
-              "projected": 80.74
+              "projected": 85.96
             },
             {
               "name": "Chuba Hubbard",
@@ -1829,7 +1829,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 74.0,
-              "projected": 178.67
+              "projected": 180.08
             },
             {
               "name": "Brock Purdy",
@@ -1839,7 +1839,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 116.64,
-              "projected": 241.67
+              "projected": 241.62
             },
             {
               "name": "Isaiah Likely",
@@ -1849,7 +1849,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 68.9,
-              "projected": 132.65
+              "projected": 131.65
             },
             {
               "name": "Jason Myers",
@@ -1858,7 +1858,7 @@
               "slot": "K",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 52.0,
+              "points": 59.0,
               "projected": 109.41
             },
             {
@@ -1869,7 +1869,7 @@
               "injury_status": "OUT",
               "acquisition": "DRAFT",
               "points": 52.4,
-              "projected": 95.24
+              "projected": 98.24
             },
             {
               "name": "Tank Dell",
@@ -1909,7 +1909,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 92.56,
-              "projected": 75.56
+              "projected": 75.57
             }
           ]
         },
@@ -1935,7 +1935,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 85.8,
-              "projected": 206.04
+              "projected": 205.38
             },
             {
               "name": "Chase Brown",
@@ -1945,7 +1945,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 53.0,
-              "projected": 160.75
+              "projected": 158.31
             },
             {
               "name": "Garrett Wilson",
@@ -1955,17 +1955,17 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 70.9,
-              "projected": 142.41
+              "projected": 143.67
             },
             {
               "name": "Zay Flowers",
               "position": "WR",
               "pro_team": "BAL",
               "slot": "RB/WR/TE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 68.8,
-              "projected": 167.08
+              "projected": 163.62
             },
             {
               "name": "Jadarian Price",
@@ -1975,7 +1975,7 @@
               "injury_status": "INJURY_RESERVE",
               "acquisition": "DRAFT",
               "points": 12.0,
-              "projected": 105.76
+              "projected": 106.85
             },
             {
               "name": "Luther Burden III",
@@ -1985,7 +1985,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 44.3,
-              "projected": 117.92
+              "projected": 120.3
             },
             {
               "name": "Caleb Williams",
@@ -1995,7 +1995,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 44.98,
-              "projected": 208.18
+              "projected": 208.09
             },
             {
               "name": "Jordan Addison",
@@ -2005,7 +2005,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 27.7,
-              "projected": 111.11
+              "projected": 107.48
             },
             {
               "name": "Dallas Goedert",
@@ -2015,7 +2015,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 29.4,
-              "projected": 100.02
+              "projected": 96.35
             },
             {
               "name": "Jordan Mason",
@@ -2025,7 +2025,7 @@
               "injury_status": "INJURY_RESERVE",
               "acquisition": "DRAFT",
               "points": 11.9,
-              "projected": 107.58
+              "projected": 107.47
             },
             {
               "name": "Eddy Pineiro",
@@ -2045,7 +2045,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "ADD",
               "points": 61.0,
-              "projected": 118.41
+              "projected": 137.63
             },
             {
               "name": "Sam Darnold",
@@ -2054,8 +2054,8 @@
               "slot": "QB",
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
-              "points": 49.8,
-              "projected": 179.99
+              "points": 60.82,
+              "projected": 179.96
             },
             {
               "name": "Jets D/ST",
@@ -2075,7 +2075,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 40.0,
-              "projected": 96.9
+              "projected": 93.26
             },
             {
               "name": "Kendre Miller",
@@ -2085,7 +2085,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 21.8,
-              "projected": 27.29
+              "projected": 27.22
             }
           ]
         }
@@ -2494,7 +2494,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 90.9,
-              "projected": 195.24
+              "projected": 194.62
             },
             {
               "name": "Nico Collins",
@@ -2504,7 +2504,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 53.1,
-              "projected": 158.85
+              "projected": 163.24
             },
             {
               "name": "Trey McBride",
@@ -2514,7 +2514,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 69.8,
-              "projected": 167.21
+              "projected": 168.09
             },
             {
               "name": "Jaylen Waddle",
@@ -2523,18 +2523,18 @@
               "slot": "WR",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 39.7,
-              "projected": 103.06
+              "points": 44.1,
+              "projected": 98.87
             },
             {
               "name": "David Montgomery",
               "position": "RB",
               "pro_team": "HOU",
               "slot": "BE",
-              "injury_status": "DOUBTFUL",
+              "injury_status": "OUT",
               "acquisition": "DRAFT",
               "points": 42.0,
-              "projected": 114.91
+              "projected": 115.49
             },
             {
               "name": "Michael Pittman Jr.",
@@ -2554,7 +2554,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 39.7,
-              "projected": 146.85
+              "projected": 147.85
             },
             {
               "name": "Alec Pierce",
@@ -2564,7 +2564,7 @@
               "injury_status": "INJURY_RESERVE",
               "acquisition": "DRAFT",
               "points": 9.7,
-              "projected": 88.42
+              "projected": 69.6
             },
             {
               "name": "Trevor Lawrence",
@@ -2584,7 +2584,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 32.7,
-              "projected": 97.12
+              "projected": 93.63
             },
             {
               "name": "Jared Goff",
@@ -2604,7 +2604,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 49.7,
-              "projected": 76.63
+              "projected": 76.4
             },
             {
               "name": "Braelon Allen",
@@ -2614,7 +2614,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 41.0,
-              "projected": 81.12
+              "projected": 81.69
             },
             {
               "name": "Emanuel Wilson",
@@ -2623,8 +2623,8 @@
               "slot": "RB/WR/TE",
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
-              "points": 48.6,
-              "projected": 22.16
+              "points": 53.8,
+              "projected": 22.14
             },
             {
               "name": "49ers D/ST",
@@ -2634,7 +2634,7 @@
               "injury_status": "NORMAL",
               "acquisition": "ADD",
               "points": 43.0,
-              "projected": 85.05
+              "projected": 84.94
             },
             {
               "name": "Tyler Bass",
@@ -2670,7 +2670,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 47.1,
-              "projected": 114.38
+              "projected": 113.87
             },
             {
               "name": "Patrick Mahomes",
@@ -2690,7 +2690,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 30.3,
-              "projected": 100.61
+              "projected": 104.5
             },
             {
               "name": "Jameson Williams",
@@ -2700,7 +2700,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 48.6,
-              "projected": 107.39
+              "projected": 107.81
             },
             {
               "name": "Brandon Aubrey",
@@ -2720,7 +2720,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 61.3,
-              "projected": 137.21
+              "projected": 136.82
             },
             {
               "name": "Rams D/ST",
@@ -2740,7 +2740,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 34.9,
-              "projected": 87.42
+              "projected": 87.1
             },
             {
               "name": "Kyle Monangai",
@@ -2750,7 +2750,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 56.8,
-              "projected": 116.96
+              "projected": 107.47
             },
             {
               "name": "Xavier Worthy",
@@ -2760,7 +2760,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 26.3,
-              "projected": 107.04
+              "projected": 107.67
             },
             {
               "name": "Jalen Coker",
@@ -2770,7 +2770,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 43.2,
-              "projected": 147.16
+              "projected": 148.51
             },
             {
               "name": "Justin Fields",
@@ -2790,7 +2790,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 21.7,
-              "projected": 59.01
+              "projected": 60.0
             },
             {
               "name": "Tyler Allgeier",
@@ -2800,7 +2800,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 28.3,
-              "projected": 74.44
+              "projected": 73.92
             }
           ]
         },
@@ -2826,7 +2826,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 85.8,
-              "projected": 206.04
+              "projected": 205.38
             },
             {
               "name": "A.J. Brown",
@@ -2836,7 +2836,7 @@
               "injury_status": "INJURY_RESERVE",
               "acquisition": "DRAFT",
               "points": 4.1,
-              "projected": 146.46
+              "projected": 144.16
             },
             {
               "name": "Kyren Williams",
@@ -2846,7 +2846,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 95.8,
-              "projected": 199.73
+              "projected": 200.98
             },
             {
               "name": "Travis Etienne Jr.",
@@ -2856,7 +2856,7 @@
               "injury_status": "INJURY_RESERVE",
               "acquisition": "DRAFT",
               "points": 25.4,
-              "projected": 113.49
+              "projected": 113.67
             },
             {
               "name": "Luther Burden III",
@@ -2866,7 +2866,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 44.3,
-              "projected": 117.92
+              "projected": 120.3
             },
             {
               "name": "TreVeyon Henderson",
@@ -2876,17 +2876,17 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 25.5,
-              "projected": 87.87
+              "projected": 87.72
             },
             {
               "name": "Mike Evans",
               "position": "WR",
               "pro_team": "SF",
               "slot": "WR",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 64.6,
-              "projected": 163.0
+              "projected": 162.07
             },
             {
               "name": "Michael Wilson",
@@ -2896,7 +2896,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 49.58,
-              "projected": 146.48
+              "projected": 146.12
             },
             {
               "name": "Texans D/ST",
@@ -2906,7 +2906,7 @@
               "injury_status": "NORMAL",
               "acquisition": "DRAFT",
               "points": 31.0,
-              "projected": 90.46
+              "projected": 90.35
             },
             {
               "name": "Matthew Stafford",
@@ -2925,8 +2925,8 @@
               "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 65.18,
-              "projected": 184.32
+              "points": 69.66,
+              "projected": 184.34
             },
             {
               "name": "Juwan Johnson",
@@ -2936,7 +2936,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 53.3,
-              "projected": 93.91
+              "projected": 96.34
             },
             {
               "name": "Evan McPherson",
@@ -2956,7 +2956,7 @@
               "injury_status": "NORMAL",
               "acquisition": "ADD",
               "points": 63.0,
-              "projected": 90.94
+              "projected": 90.21
             },
             {
               "name": "Ollie Gordon II",
@@ -2966,7 +2966,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 45.5,
-              "projected": 143.33
+              "projected": 142.39
             },
             {
               "name": "Matt Gay",
@@ -3002,7 +3002,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 81.8,
-              "projected": 219.83
+              "projected": 213.64
             },
             {
               "name": "Derrick Henry",
@@ -3012,7 +3012,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 107.8,
-              "projected": 236.77
+              "projected": 236.8
             },
             {
               "name": "Malik Nabers",
@@ -3022,17 +3022,17 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 59.4,
-              "projected": 160.57
+              "projected": 159.79
             },
             {
               "name": "Zay Flowers",
               "position": "WR",
               "pro_team": "BAL",
               "slot": "BE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 68.8,
-              "projected": 167.08
+              "projected": 163.62
             },
             {
               "name": "DJ Moore",
@@ -3042,7 +3042,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 30.3,
-              "projected": 130.07
+              "projected": 129.53
             },
             {
               "name": "Joe Burrow",
@@ -3062,7 +3062,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 83.5,
-              "projected": 165.85
+              "projected": 166.37
             },
             {
               "name": "Aaron Jones Sr.",
@@ -3072,7 +3072,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 64.2,
-              "projected": 124.36
+              "projected": 122.65
             },
             {
               "name": "Dallas Goedert",
@@ -3082,7 +3082,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 29.4,
-              "projected": 100.02
+              "projected": 96.35
             },
             {
               "name": "Brock Purdy",
@@ -3092,7 +3092,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 116.64,
-              "projected": 241.67
+              "projected": 241.62
             },
             {
               "name": "Eddy Pineiro",
@@ -3112,7 +3112,7 @@
               "injury_status": "OUT",
               "acquisition": "DRAFT",
               "points": 52.4,
-              "projected": 95.24
+              "projected": 98.24
             },
             {
               "name": "Hunter Henry",
@@ -3122,7 +3122,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 31.2,
-              "projected": 80.08
+              "projected": 78.49
             },
             {
               "name": "Steelers D/ST",
@@ -3132,7 +3132,7 @@
               "injury_status": "NORMAL",
               "acquisition": "DRAFT",
               "points": 37.0,
-              "projected": 82.37
+              "projected": 82.25
             },
             {
               "name": "T.J. Hockenson",
@@ -3142,7 +3142,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "ADD",
               "points": 37.7,
-              "projected": 96.46
+              "projected": 96.5
             }
           ]
         },
@@ -3168,7 +3168,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 95.6,
-              "projected": 179.95
+              "projected": 180.47
             },
             {
               "name": "Saquon Barkley",
@@ -3178,7 +3178,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 21.0,
-              "projected": 149.14
+              "projected": 136.84
             },
             {
               "name": "Garrett Wilson",
@@ -3188,7 +3188,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 70.9,
-              "projected": 142.41
+              "projected": 143.67
             },
             {
               "name": "Quinshon Judkins",
@@ -3198,17 +3198,17 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 47.3,
-              "projected": 150.02
+              "projected": 148.48
             },
             {
               "name": "Terry McLaurin",
               "position": "WR",
               "pro_team": "WSH",
               "slot": "RB/WR/TE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 35.3,
-              "projected": 125.49
+              "projected": 125.92
             },
             {
               "name": "Tyler Warren",
@@ -3218,7 +3218,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 54.9,
-              "projected": 112.38
+              "projected": 110.17
             },
             {
               "name": "Caleb Williams",
@@ -3228,7 +3228,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 44.98,
-              "projected": 208.18
+              "projected": 208.09
             },
             {
               "name": "Courtland Sutton",
@@ -3237,8 +3237,8 @@
               "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 21.9,
-              "projected": 90.88
+              "points": 24.8,
+              "projected": 94.27
             },
             {
               "name": "RJ Harvey",
@@ -3247,8 +3247,8 @@
               "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 28.8,
-              "projected": 100.69
+              "points": 41.9,
+              "projected": 100.03
             },
             {
               "name": "Zach Charbonnet",
@@ -3258,7 +3258,7 @@
               "injury_status": "OUT",
               "acquisition": "DRAFT",
               "points": 0.0,
-              "projected": 134.03
+              "projected": 134.09
             },
             {
               "name": "Seahawks D/ST",
@@ -3267,8 +3267,8 @@
               "slot": "D/ST",
               "injury_status": "NORMAL",
               "acquisition": "DRAFT",
-              "points": 51.0,
-              "projected": 86.67
+              "points": 57.0,
+              "projected": 86.54
             },
             {
               "name": "Jake Bates",
@@ -3288,7 +3288,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 90.62,
-              "projected": 237.91
+              "projected": 237.88
             },
             {
               "name": "Dominic Zvada",
@@ -3308,7 +3308,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 21.8,
-              "projected": 27.29
+              "projected": 27.22
             },
             {
               "name": "Pat Freiermuth",
@@ -3318,7 +3318,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 50.8,
-              "projected": 97.76
+              "projected": 107.03
             }
           ]
         },
@@ -3344,7 +3344,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 66.4,
-              "projected": 212.06
+              "projected": 216.61
             },
             {
               "name": "Ashton Jeanty",
@@ -3354,7 +3354,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 73.6,
-              "projected": 181.44
+              "projected": 184.02
             },
             {
               "name": "Javonte Williams",
@@ -3364,7 +3364,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 87.5,
-              "projected": 189.56
+              "projected": 189.29
             },
             {
               "name": "Davante Adams",
@@ -3374,7 +3374,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 81.6,
-              "projected": 154.84
+              "projected": 155.54
             },
             {
               "name": "Drake Maye",
@@ -3394,7 +3394,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 36.9,
-              "projected": 114.03
+              "projected": 102.42
             },
             {
               "name": "Kyle Pitts Sr.",
@@ -3404,7 +3404,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 21.9,
-              "projected": 78.98
+              "projected": 82.55
             },
             {
               "name": "Chuba Hubbard",
@@ -3414,7 +3414,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 74.0,
-              "projected": 178.67
+              "projected": 180.08
             },
             {
               "name": "Matthew Golden",
@@ -3424,7 +3424,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 66.3,
-              "projected": 149.93
+              "projected": 146.24
             },
             {
               "name": "Travis Kelce",
@@ -3434,7 +3434,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 44.6,
-              "projected": 116.4
+              "projected": 114.28
             },
             {
               "name": "Cameron Dicker",
@@ -3454,7 +3454,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 89.18,
-              "projected": 186.17
+              "projected": 186.13
             },
             {
               "name": "Brian Robinson Jr.",
@@ -3464,7 +3464,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 48.6,
-              "projected": 84.25
+              "projected": 84.74
             },
             {
               "name": "Roman Wilson",
@@ -3474,7 +3474,7 @@
               "injury_status": "OUT",
               "acquisition": "ADD",
               "points": 37.8,
-              "projected": 80.57
+              "projected": 83.87
             },
             {
               "name": "Colts D/ST",
@@ -3484,7 +3484,7 @@
               "injury_status": "NORMAL",
               "acquisition": "ADD",
               "points": 2.0,
-              "projected": 49.51
+              "projected": 49.38
             }
           ]
         },
@@ -3510,7 +3510,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 140.2,
-              "projected": 284.07
+              "projected": 283.88
             },
             {
               "name": "Jeremiyah Love",
@@ -3520,17 +3520,17 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 45.6,
-              "projected": 131.71
+              "projected": 132.57
             },
             {
               "name": "Brock Bowers",
               "position": "TE",
               "pro_team": "LV",
               "slot": "TE",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 59.2,
-              "projected": 168.59
+              "projected": 170.76
             },
             {
               "name": "Emeka Egbuka",
@@ -3540,7 +3540,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 42.8,
-              "projected": 116.85
+              "projected": 118.49
             },
             {
               "name": "Rome Odunze",
@@ -3550,7 +3550,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 33.8,
-              "projected": 108.96
+              "projected": 107.36
             },
             {
               "name": "Wan'Dale Robinson",
@@ -3560,7 +3560,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 40.7,
-              "projected": 80.74
+              "projected": 85.96
             },
             {
               "name": "J.K. Dobbins",
@@ -3569,8 +3569,8 @@
               "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 33.6,
-              "projected": 130.41
+              "points": 45.7,
+              "projected": 130.44
             },
             {
               "name": "Romeo Doubs",
@@ -3580,7 +3580,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 40.4,
-              "projected": 96.97
+              "projected": 99.05
             },
             {
               "name": "Jordan Mason",
@@ -3590,7 +3590,7 @@
               "injury_status": "INJURY_RESERVE",
               "acquisition": "DRAFT",
               "points": 11.9,
-              "projected": 107.58
+              "projected": 107.47
             },
             {
               "name": "Woody Marks",
@@ -3600,7 +3600,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 37.8,
-              "projected": 89.84
+              "projected": 89.16
             },
             {
               "name": "Jaguars D/ST",
@@ -3610,7 +3610,7 @@
               "injury_status": "NORMAL",
               "acquisition": "ADD",
               "points": 36.0,
-              "projected": 90.72
+              "projected": 91.44
             },
             {
               "name": "Spencer Shrader",
@@ -3630,7 +3630,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 64.66,
-              "projected": 261.33
+              "projected": 261.28
             },
             {
               "name": "MarShawn Lloyd",
@@ -3640,7 +3640,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 37.7,
-              "projected": 68.41
+              "projected": 69.29
             },
             {
               "name": "Giants D/ST",
@@ -3650,7 +3650,7 @@
               "injury_status": "NORMAL",
               "acquisition": "ADD",
               "points": 32.0,
-              "projected": 55.6
+              "projected": 55.37
             }
           ]
         },
@@ -3676,7 +3676,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 85.7,
-              "projected": 193.0
+              "projected": 192.36
             },
             {
               "name": "Chase Brown",
@@ -3686,7 +3686,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 53.0,
-              "projected": 160.75
+              "projected": 158.31
             },
             {
               "name": "Rashee Rice",
@@ -3696,7 +3696,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 31.5,
-              "projected": 154.86
+              "projected": 139.93
             },
             {
               "name": "Cam Skattebo",
@@ -3706,17 +3706,17 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 46.3,
-              "projected": 125.17
+              "projected": 123.23
             },
             {
               "name": "Jalen Hurts",
               "position": "QB",
               "pro_team": "PHI",
               "slot": "QB",
-              "injury_status": "ACTIVE",
+              "injury_status": "OUT",
               "acquisition": "DRAFT",
               "points": 80.02,
-              "projected": 205.55
+              "projected": 175.15
             },
             {
               "name": "Marvin Harrison Jr.",
@@ -3726,7 +3726,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 17.0,
-              "projected": 34.69
+              "projected": 34.75
             },
             {
               "name": "Sam LaPorta",
@@ -3736,17 +3736,17 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 63.1,
-              "projected": 122.95
+              "projected": 123.55
             },
             {
               "name": "Rico Dowdle",
               "position": "RB",
               "pro_team": "PIT",
               "slot": "RB",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 8.5,
-              "projected": 71.21
+              "projected": 71.12
             },
             {
               "name": "Jakobi Meyers",
@@ -3756,7 +3756,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 39.9,
-              "projected": 94.67
+              "projected": 95.18
             },
             {
               "name": "Rachaad White",
@@ -3766,7 +3766,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 28.1,
-              "projected": 83.42
+              "projected": 84.4
             },
             {
               "name": "KC Concepcion",
@@ -3776,7 +3776,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 22.8,
-              "projected": 89.95
+              "projected": 86.24
             },
             {
               "name": "Kyler Murray",
@@ -3796,7 +3796,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 31.9,
-              "projected": 60.99
+              "projected": 60.54
             },
             {
               "name": "Tyler Loop",
@@ -3841,8 +3841,8 @@
               "slot": "WR",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 120.96,
-              "projected": 198.29
+              "points": 140.36,
+              "projected": 199.74
             },
             {
               "name": "Josh Allen",
@@ -3859,10 +3859,10 @@
               "position": "RB",
               "pro_team": "NYJ",
               "slot": "BE",
-              "injury_status": "DOUBTFUL",
+              "injury_status": "OUT",
               "acquisition": "DRAFT",
               "points": 37.5,
-              "projected": 156.48
+              "projected": 155.74
             },
             {
               "name": "Tetairoa McMillan",
@@ -3872,7 +3872,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 61.5,
-              "projected": 174.37
+              "projected": 174.27
             },
             {
               "name": "Bhayshul Tuten",
@@ -3882,7 +3882,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 59.2,
-              "projected": 162.57
+              "projected": 161.75
             },
             {
               "name": "Dak Prescott",
@@ -3892,7 +3892,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 93.84,
-              "projected": 208.33
+              "projected": 208.24
             },
             {
               "name": "Harold Fannin Jr.",
@@ -3902,7 +3902,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 42.7,
-              "projected": 102.31
+              "projected": 98.7
             },
             {
               "name": "Jonathon Brooks",
@@ -3922,7 +3922,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 27.7,
-              "projected": 111.11
+              "projected": 107.48
             },
             {
               "name": "Ka'imi Fairbairn",
@@ -3941,7 +3941,7 @@
               "slot": "D/ST",
               "injury_status": "NORMAL",
               "acquisition": "DRAFT",
-              "points": 35.0,
+              "points": 46.0,
               "projected": 73.19
             },
             {
@@ -3952,7 +3952,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 41.7,
-              "projected": 75.53
+              "projected": 75.16
             },
             {
               "name": "Harrison Butker",
@@ -3972,7 +3972,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 10.6,
-              "projected": 35.98
+              "projected": 35.68
             },
             {
               "name": "Lions D/ST",
@@ -3992,7 +3992,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "ADD",
               "points": 31.2,
-              "projected": 84.03
+              "projected": 83.59
             }
           ]
         },
@@ -4018,7 +4018,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 54.2,
-              "projected": 176.61
+              "projected": 182.48
             },
             {
               "name": "Kenneth Walker III",
@@ -4028,7 +4028,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 104.1,
-              "projected": 266.22
+              "projected": 272.33
             },
             {
               "name": "DeVonta Smith",
@@ -4038,7 +4038,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 39.0,
-              "projected": 142.04
+              "projected": 130.01
             },
             {
               "name": "D'Andre Swift",
@@ -4048,7 +4048,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 73.8,
-              "projected": 153.08
+              "projected": 154.47
             },
             {
               "name": "Christian Watson",
@@ -4058,7 +4058,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 96.4,
-              "projected": 155.38
+              "projected": 151.17
             },
             {
               "name": "Tucker Kraft",
@@ -4068,7 +4068,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 37.7,
-              "projected": 105.77
+              "projected": 107.47
             },
             {
               "name": "Chris Godwin Jr.",
@@ -4078,7 +4078,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 29.2,
-              "projected": 71.82
+              "projected": 66.22
             },
             {
               "name": "Isaiah Likely",
@@ -4088,7 +4088,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 68.9,
-              "projected": 132.65
+              "projected": 131.65
             },
             {
               "name": "Cam Little",
@@ -4128,7 +4128,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "ADD",
               "points": 61.0,
-              "projected": 118.41
+              "projected": 137.63
             },
             {
               "name": "Ravens D/ST",
@@ -4148,7 +4148,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 29.5,
-              "projected": 76.96
+              "projected": 78.82
             },
             {
               "name": "Germie Bernard",
@@ -4158,7 +4158,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 20.9,
-              "projected": 93.13
+              "projected": 80.14
             }
           ]
         },
@@ -4184,7 +4184,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 112.2,
-              "projected": 249.27
+              "projected": 248.23
             },
             {
               "name": "George Pickens",
@@ -4194,13 +4194,13 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 55.0,
-              "projected": 134.52
+              "projected": 133.58
             },
             {
               "name": "Lamar Jackson",
               "position": "QB",
               "pro_team": "BAL",
-              "slot": "BE",
+              "slot": "QB",
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 79.08,
@@ -4214,7 +4214,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 71.2,
-              "projected": 177.12
+              "projected": 178.46
             },
             {
               "name": "Tee Higgins",
@@ -4224,7 +4224,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 61.8,
-              "projected": 145.67
+              "projected": 141.26
             },
             {
               "name": "Parker Washington",
@@ -4234,7 +4234,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 70.5,
-              "projected": 156.33
+              "projected": 156.96
             },
             {
               "name": "DK Metcalf",
@@ -4244,7 +4244,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 39.1,
-              "projected": 118.5
+              "projected": 115.83
             },
             {
               "name": "Stefon Diggs",
@@ -4254,7 +4254,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 44.0,
-              "projected": 101.9
+              "projected": 104.0
             },
             {
               "name": "Josh Jacobs",
@@ -4264,7 +4264,7 @@
               "injury_status": "DAY_TO_DAY",
               "acquisition": "DRAFT",
               "points": 0.0,
-              "projected": 80.43
+              "projected": 80.48
             },
             {
               "name": "Jake Ferguson",
@@ -4274,27 +4274,17 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 33.7,
-              "projected": 64.44
+              "projected": 66.76
             },
             {
               "name": "Jacory Croskey-Merritt",
               "position": "RB",
               "pro_team": "WSH",
               "slot": "BE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 42.4,
-              "projected": 95.45
-            },
-            {
-              "name": "Harrison Mevis",
-              "position": "K",
-              "pro_team": "None",
-              "slot": "K",
-              "injury_status": "ACTIVE",
-              "acquisition": "DRAFT",
-              "points": 28.0,
-              "projected": 0.0
+              "projected": 95.68
             },
             {
               "name": "Patriots D/ST",
@@ -4314,17 +4304,27 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 14.6,
-              "projected": 56.85
+              "projected": 56.9
             },
             {
               "name": "Michael Penix Jr.",
               "position": "QB",
               "pro_team": "ATL",
-              "slot": "QB",
+              "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 41.16,
               "projected": 173.4
+            },
+            {
+              "name": "Blake Grupe",
+              "position": "K",
+              "pro_team": "LAR",
+              "slot": "K",
+              "injury_status": "ACTIVE",
+              "acquisition": "ADD",
+              "points": 0.0,
+              "projected": 108.72
             }
           ]
         },
@@ -4350,7 +4350,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 62.3,
-              "projected": 214.18
+              "projected": 214.1
             },
             {
               "name": "Drake London",
@@ -4360,7 +4360,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 62.7,
-              "projected": 152.59
+              "projected": 148.42
             },
             {
               "name": "Chris Olave",
@@ -4370,7 +4370,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 79.2,
-              "projected": 159.85
+              "projected": 158.34
             },
             {
               "name": "Colston Loveland",
@@ -4380,7 +4380,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 17.5,
-              "projected": 85.14
+              "projected": 86.48
             },
             {
               "name": "Jadarian Price",
@@ -4390,7 +4390,7 @@
               "injury_status": "INJURY_RESERVE",
               "acquisition": "DRAFT",
               "points": 12.0,
-              "projected": 105.76
+              "projected": 106.85
             },
             {
               "name": "Rhamondre Stevenson",
@@ -4400,7 +4400,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 53.3,
-              "projected": 141.13
+              "projected": 138.07
             },
             {
               "name": "Jaxson Dart",
@@ -4420,7 +4420,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 21.3,
-              "projected": 72.0
+              "projected": 73.47
             },
             {
               "name": "Travis Hunter",
@@ -4430,17 +4430,17 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 3.0,
-              "projected": 11.58
+              "projected": 11.4
             },
             {
               "name": "Josh Downs",
               "position": "WR",
               "pro_team": "IND",
               "slot": "BE",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 34.9,
-              "projected": 85.3
+              "projected": 89.56
             },
             {
               "name": "Khalil Shakir",
@@ -4450,7 +4450,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 32.6,
-              "projected": 84.01
+              "projected": 86.09
             },
             {
               "name": "Jason Myers",
@@ -4459,7 +4459,7 @@
               "slot": "K",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 52.0,
+              "points": 59.0,
               "projected": 109.41
             },
             {
