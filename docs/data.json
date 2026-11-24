@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T23:23:59.022083+00:00",
+  "updated": "2026-11-24T14:28:56.847458+00:00",
   "season": 2026,
   "super_bowl": {
     "scheduled": false,
@@ -15,7 +15,7 @@
       "name": "ETU League A",
       "placeholder": false,
       "espn_name": "ETU Sports: Central Park Conf.",
-      "current_week": 11,
+      "current_week": 12,
       "teams": [
         {
           "id": 1,
@@ -24,12 +24,12 @@
           "owner": "Zack Galpern",
           "logo": "https://g.espncdn.com/lm-static/logo-packs/ffl/BoneHeads-ToddDetwiler/BoneHeads-09.svg",
           "wins": 3,
-          "losses": 7,
+          "losses": 8,
           "ties": 0,
-          "points_for": 991.94,
-          "points_against": 1135.52,
+          "points_for": 1082.08,
+          "points_against": 1231.18,
           "standing": 11,
-          "streak": "LOSS 1",
+          "streak": "LOSS 2",
           "roster": [
             {
               "name": "Puka Nacua",
@@ -49,7 +49,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 152.1,
-              "projected": 83.76
+              "projected": 83.77
             },
             {
               "name": "Javonte Williams",
@@ -59,7 +59,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 177.4,
-              "projected": 84.16
+              "projected": 84.18
             },
             {
               "name": "Emeka Egbuka",
@@ -69,7 +69,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 65.3,
-              "projected": 59.99
+              "projected": 60.0
             },
             {
               "name": "DJ Moore",
@@ -96,7 +96,7 @@
               "position": "TE",
               "pro_team": "DET",
               "slot": "TE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 85.4,
               "projected": 63.01
@@ -109,7 +109,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 186.7,
-              "projected": 137.78
+              "projected": 137.8
             },
             {
               "name": "Ollie Gordon II",
@@ -129,7 +129,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 113.0,
-              "projected": 56.31
+              "projected": 56.32
             },
             {
               "name": "Germie Bernard",
@@ -159,7 +159,7 @@
               "injury_status": "NORMAL",
               "acquisition": "ADD",
               "points": 75.0,
-              "projected": 47.35
+              "projected": 46.72
             },
             {
               "name": "Chig Okonkwo",
@@ -168,7 +168,7 @@
               "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
-              "points": 37.8,
+              "points": 46.4,
               "projected": 54.37
             },
             {
@@ -178,7 +178,7 @@
               "slot": "WR",
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
-              "points": 45.0,
+              "points": 49.0,
               "projected": 52.35
             },
             {
@@ -189,7 +189,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 85.5,
-              "projected": 37.99
+              "projected": 38.03
             }
           ]
         },
@@ -199,13 +199,13 @@
           "abbrev": "JFT",
           "owner": "J B",
           "logo": "https://g.espncdn.com/lm-static/ffl/images/default_logos/19.svg",
-          "wins": 7,
+          "wins": 8,
           "losses": 3,
           "ties": 0,
-          "points_for": 1154.96,
-          "points_against": 1087.88,
+          "points_for": 1279.46,
+          "points_against": 1146.44,
           "standing": 1,
-          "streak": "WIN 1",
+          "streak": "WIN 2",
           "roster": [
             {
               "name": "Jahmyr Gibbs",
@@ -235,7 +235,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 132.6,
-              "projected": 83.69
+              "projected": 83.68
             },
             {
               "name": "Davante Adams",
@@ -255,7 +255,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 152.7,
-              "projected": 89.79
+              "projected": 89.8
             },
             {
               "name": "Dak Prescott",
@@ -282,7 +282,7 @@
               "position": "RB",
               "pro_team": "GB",
               "slot": "RB/WR/TE",
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 38.3,
               "projected": 87.56
@@ -315,7 +315,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 142.3,
-              "projected": 122.01
+              "projected": 122.06
             },
             {
               "name": "Tyler Shough",
@@ -366,12 +366,12 @@
           "owner": "Andrew York",
           "logo": "https://g.espncdn.com/lm-static/logo-packs/ffl/1stStringAllStars-SportsManias/allen-01.svg",
           "wins": 5,
-          "losses": 5,
+          "losses": 6,
           "ties": 0,
-          "points_for": 903.2,
-          "points_against": 969.58,
-          "standing": 7,
-          "streak": "LOSS 1",
+          "points_for": 976.68,
+          "points_against": 1080.94,
+          "standing": 8,
+          "streak": "LOSS 2",
           "roster": [
             {
               "name": "Drake London",
@@ -391,7 +391,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 94.9,
-              "projected": 102.05
+              "projected": 102.04
             },
             {
               "name": "Drake Maye",
@@ -441,14 +441,14 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 78.0,
-              "projected": 66.49
+              "projected": 66.51
             },
             {
               "name": "Dalton Kincaid",
               "position": "TE",
               "pro_team": "BUF",
               "slot": "TE",
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 76.7,
               "projected": 49.74
@@ -511,7 +511,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 100.2,
-              "projected": 42.73
+              "projected": 42.72
             },
             {
               "name": "Kenny Gainwell",
@@ -531,7 +531,7 @@
               "injury_status": "NORMAL",
               "acquisition": "ADD",
               "points": 33.0,
-              "projected": 32.97
+              "projected": 32.99
             }
           ]
         },
@@ -541,13 +541,13 @@
           "abbrev": "NNT",
           "owner": "Nathaniel Stoffle",
           "logo": "https://mystique-api.fantasy.espn.com/apis/v1/domains/lm/images/b11fcd20-a16b-11f1-8b95-b1e59b7020ef",
-          "wins": 4,
+          "wins": 5,
           "losses": 6,
           "ties": 0,
-          "points_for": 1020.88,
-          "points_against": 1017.48,
-          "standing": 8,
-          "streak": "LOSS 2",
+          "points_for": 1132.24,
+          "points_against": 1090.96,
+          "standing": 7,
+          "streak": "WIN 1",
           "roster": [
             {
               "name": "Christian McCaffrey",
@@ -567,7 +567,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 142.8,
-              "projected": 69.46
+              "projected": 69.47
             },
             {
               "name": "DeVonta Smith",
@@ -577,7 +577,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 62.6,
-              "projected": 72.71
+              "projected": 72.7
             },
             {
               "name": "Quinshon Judkins",
@@ -654,10 +654,10 @@
               "position": "WR",
               "pro_team": "NYJ",
               "slot": "BE",
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "ADD",
               "points": 52.6,
-              "projected": 43.37
+              "projected": 43.36
             },
             {
               "name": "DeMario Douglas",
@@ -677,7 +677,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 89.3,
-              "projected": 125.71
+              "projected": 105.23
             },
             {
               "name": "Adonai Mitchell",
@@ -708,12 +708,12 @@
           "owner": "Justin Janawitz",
           "logo": "https://g.espncdn.com/lm-static/ffl/images/default_logos/1.svg",
           "wins": 4,
-          "losses": 6,
+          "losses": 7,
           "ties": 0,
-          "points_for": 958.66,
-          "points_against": 1041.9,
-          "standing": 10,
-          "streak": "LOSS 1",
+          "points_for": 1061.26,
+          "points_against": 1150.6,
+          "standing": 9,
+          "streak": "LOSS 2",
           "roster": [
             {
               "name": "CeeDee Lamb",
@@ -723,7 +723,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 208.2,
-              "projected": 99.22
+              "projected": 99.29
             },
             {
               "name": "Saquon Barkley",
@@ -762,7 +762,7 @@
               "slot": "QB",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 232.3,
+              "points": 252.2,
               "projected": 163.04
             },
             {
@@ -812,7 +812,7 @@
               "slot": "IR",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 42.4,
+              "points": 57.1,
               "projected": 50.93
             },
             {
@@ -823,7 +823,7 @@
               "injury_status": "NORMAL",
               "acquisition": "DRAFT",
               "points": 68.0,
-              "projected": 43.78
+              "projected": 43.6
             },
             {
               "name": "Chris Boswell",
@@ -843,7 +843,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 148.74,
-              "projected": 105.84
+              "projected": 105.83
             },
             {
               "name": "Bills D/ST",
@@ -853,7 +853,7 @@
               "injury_status": "NORMAL",
               "acquisition": "ADD",
               "points": 61.0,
-              "projected": 42.27
+              "projected": 42.28
             },
             {
               "name": "Kimani Vidal",
@@ -863,7 +863,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 47.6,
-              "projected": 39.49
+              "projected": 39.59
             },
             {
               "name": "Dalton Schultz",
@@ -884,12 +884,12 @@
           "owner": "Matthew Sharp",
           "logo": "https://g.espncdn.com/lm-static/ffl/images/default_logos/14.svg",
           "wins": 4,
-          "losses": 6,
+          "losses": 7,
           "ties": 0,
-          "points_for": 967.82,
-          "points_against": 997.68,
-          "standing": 9,
-          "streak": "WIN 2",
+          "points_for": 1056.86,
+          "points_against": 1120.3,
+          "standing": 10,
+          "streak": "LOSS 1",
           "roster": [
             {
               "name": "Justin Jefferson",
@@ -899,7 +899,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 101.8,
-              "projected": 112.34
+              "projected": 112.62
             },
             {
               "name": "Omarion Hampton",
@@ -925,17 +925,17 @@
               "name": "Jaylen Waddle",
               "position": "WR",
               "pro_team": "DEN",
-              "slot": "WR",
+              "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 74.6,
-              "projected": 62.55
+              "projected": 62.59
             },
             {
               "name": "Matthew Golden",
               "position": "WR",
               "pro_team": "GB",
-              "slot": "BE",
+              "slot": "WR",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 146.9,
@@ -1049,13 +1049,13 @@
           "abbrev": "301",
           "owner": "Victor Barkley",
           "logo": "https://g.espncdn.com/lm-static/ffl/images/default_logos/11.svg",
-          "wins": 6,
+          "wins": 7,
           "losses": 4,
           "ties": 0,
-          "points_for": 1034.4,
-          "points_against": 1034.26,
-          "standing": 5,
-          "streak": "WIN 1",
+          "points_for": 1130.06,
+          "points_against": 1124.4,
+          "standing": 4,
+          "streak": "WIN 2",
           "roster": [
             {
               "name": "Jaxon Smith-Njigba",
@@ -1085,7 +1085,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 143.1,
-              "projected": 73.29
+              "projected": 73.34
             },
             {
               "name": "Jayden Daniels",
@@ -1094,7 +1094,7 @@
               "slot": "QB",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 135.96,
+              "points": 153.02,
               "projected": 143.98
             },
             {
@@ -1135,7 +1135,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 97.7,
-              "projected": 59.33
+              "projected": 59.37
             },
             {
               "name": "Mark Andrews",
@@ -1165,7 +1165,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 76.8,
-              "projected": 57.84
+              "projected": 57.96
             },
             {
               "name": "Patriots D/ST",
@@ -1192,7 +1192,7 @@
               "position": "RB",
               "pro_team": "WSH",
               "slot": "BE",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 66.4,
               "projected": 48.32
@@ -1204,7 +1204,7 @@
               "slot": "WR",
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
-              "points": 58.6,
+              "points": 75.3,
               "projected": 52.52
             }
           ]
@@ -1215,13 +1215,13 @@
           "abbrev": "LLT",
           "owner": "Logan Starr",
           "logo": "https://g.espncdn.com/lm-static/ffl/images/default_logos/16.svg",
-          "wins": 6,
+          "wins": 7,
           "losses": 4,
           "ties": 0,
-          "points_for": 1115.48,
-          "points_against": 1003.46,
-          "standing": 4,
-          "streak": "WIN 1",
+          "points_for": 1233.66,
+          "points_against": 1086.3,
+          "standing": 3,
+          "streak": "WIN 2",
           "roster": [
             {
               "name": "Jonathan Taylor",
@@ -1231,17 +1231,17 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 156.6,
-              "projected": 76.06
+              "projected": 76.52
             },
             {
               "name": "Kenneth Walker III",
               "position": "RB",
               "pro_team": "KC",
-              "slot": "BE",
-              "injury_status": "OUT",
+              "slot": "RB",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 183.4,
-              "projected": 152.17
+              "projected": 152.16
             },
             {
               "name": "Malik Nabers",
@@ -1260,7 +1260,7 @@
               "slot": "RB/WR/TE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 144.9,
+              "points": 156.2,
               "projected": 96.46
             },
             {
@@ -1281,7 +1281,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 134.1,
-              "projected": 99.66
+              "projected": 98.41
             },
             {
               "name": "J.K. Dobbins",
@@ -1291,7 +1291,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 58.0,
-              "projected": 27.0
+              "projected": 18.24
             },
             {
               "name": "Matthew Stafford",
@@ -1331,14 +1331,14 @@
               "injury_status": "NORMAL",
               "acquisition": "DRAFT",
               "points": 61.0,
-              "projected": 44.12
+              "projected": 44.2
             },
             {
               "name": "Woody Marks",
               "position": "RB",
               "pro_team": "HOU",
               "slot": "BE",
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 70.4,
               "projected": 51.32
@@ -1350,14 +1350,14 @@
               "slot": "K",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 84.0,
+              "points": 94.0,
               "projected": 61.71
             },
             {
               "name": "Fernando Mendoza",
               "position": "QB",
               "pro_team": "LV",
-              "slot": "QB",
+              "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 39.02,
@@ -1367,7 +1367,7 @@
               "name": "Emmett Johnson",
               "position": "RB",
               "pro_team": "KC",
-              "slot": "RB",
+              "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 108.2,
@@ -1392,12 +1392,12 @@
           "owner": "flavia Perez",
           "logo": "https://mystique-api.fantasy.espn.com/apis/v1/domains/lm/images/f9479140-a162-11f1-96ea-97f590071d69",
           "wins": 6,
-          "losses": 4,
+          "losses": 5,
           "ties": 0,
-          "points_for": 1188.14,
-          "points_against": 1114.0,
-          "standing": 3,
-          "streak": "LOSS 2",
+          "points_for": 1246.7,
+          "points_against": 1238.5,
+          "standing": 5,
+          "streak": "LOSS 3",
           "roster": [
             {
               "name": "Bijan Robinson",
@@ -1414,10 +1414,10 @@
               "position": "TE",
               "pro_team": "LV",
               "slot": "RB/WR/TE",
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 124.8,
-              "projected": 79.59
+              "projected": 79.58
             },
             {
               "name": "Josh Allen",
@@ -1447,7 +1447,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 145.3,
-              "projected": 106.41
+              "projected": 106.36
             },
             {
               "name": "Jaylen Warren",
@@ -1476,7 +1476,7 @@
               "slot": "WR",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 92.6,
+              "points": 99.1,
               "projected": 77.1
             },
             {
@@ -1487,7 +1487,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 20.4,
-              "projected": 16.81
+              "projected": 16.82
             },
             {
               "name": "Khalil Shakir",
@@ -1507,7 +1507,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 105.0,
-              "projected": 65.36
+              "projected": 65.37
             },
             {
               "name": "Jared Goff",
@@ -1557,13 +1557,13 @@
           "abbrev": "ZDT",
           "owner": "Zack Bal",
           "logo": "https://g.espncdn.com/lm-static/ffl/images/default_logos/8.svg",
-          "wins": 5,
+          "wins": 6,
           "losses": 5,
           "ties": 0,
-          "points_for": 1076.92,
-          "points_against": 985.62,
+          "points_for": 1199.54,
+          "points_against": 1074.66,
           "standing": 6,
-          "streak": "LOSS 1",
+          "streak": "WIN 1",
           "roster": [
             {
               "name": "Amon-Ra St. Brown",
@@ -1609,21 +1609,21 @@
               "name": "Courtland Sutton",
               "position": "WR",
               "pro_team": "DEN",
-              "slot": "WR",
+              "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 51.1,
-              "projected": 50.19
+              "projected": 47.27
             },
             {
               "name": "Christian Watson",
               "position": "WR",
               "pro_team": "GB",
-              "slot": "BE",
+              "slot": "WR",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 157.6,
-              "projected": 85.33
+              "projected": 85.34
             },
             {
               "name": "Travis Kelce",
@@ -1653,7 +1653,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 111.0,
-              "projected": 81.05
+              "projected": 80.96
             },
             {
               "name": "49ers D/ST",
@@ -1669,7 +1669,7 @@
               "name": "Blake Corum",
               "position": "RB",
               "pro_team": "LAR",
-              "slot": "BE",
+              "slot": "RB/WR/TE",
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 109.0,
@@ -1692,7 +1692,7 @@
               "slot": "BE",
               "injury_status": "NORMAL",
               "acquisition": "ADD",
-              "points": 46.0,
+              "points": 49.0,
               "projected": 32.86
             },
             {
@@ -1719,7 +1719,7 @@
               "name": "Elic Ayomanor",
               "position": "WR",
               "pro_team": "TEN",
-              "slot": "RB/WR/TE",
+              "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 48.2,
@@ -1733,13 +1733,13 @@
           "abbrev": "OOT",
           "owner": "Oliver Faa",
           "logo": "https://g.espncdn.com/lm-static/ffl/images/default_logos/5.svg",
-          "wins": 7,
+          "wins": 8,
           "losses": 3,
           "ties": 0,
-          "points_for": 1113.16,
-          "points_against": 1089.6,
+          "points_for": 1221.86,
+          "points_against": 1192.2,
           "standing": 2,
-          "streak": "WIN 3",
+          "streak": "WIN 4",
           "roster": [
             {
               "name": "Ja'Marr Chase",
@@ -1748,8 +1748,8 @@
               "slot": "WR",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 161.8,
-              "projected": 147.37
+              "points": 167.4,
+              "projected": 147.38
             },
             {
               "name": "Jeremiyah Love",
@@ -1759,7 +1759,7 @@
               "injury_status": "INJURY_RESERVE",
               "acquisition": "DRAFT",
               "points": 47.9,
-              "projected": 41.26
+              "projected": 41.25
             },
             {
               "name": "Rashee Rice",
@@ -1829,7 +1829,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 225.16,
-              "projected": 142.92
+              "projected": 142.91
             },
             {
               "name": "Isaiah Likely",
@@ -1879,7 +1879,7 @@
               "injury_status": "NORMAL",
               "acquisition": "DRAFT",
               "points": 46.0,
-              "projected": 36.07
+              "projected": 36.14
             },
             {
               "name": "Sean Tucker",
@@ -1889,7 +1889,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 20.0,
-              "projected": 0.32
+              "projected": 0.16
             },
             {
               "name": "Kirk Cousins",
@@ -1910,12 +1910,12 @@
           "owner": "Suraj Edara",
           "logo": "https://g.espncdn.com/lm-static/ffl/images/default_logos/18.svg",
           "wins": 3,
-          "losses": 7,
+          "losses": 8,
           "ties": 0,
-          "points_for": 976.98,
-          "points_against": 1025.56,
+          "points_for": 1059.82,
+          "points_against": 1143.74,
           "standing": 12,
-          "streak": "WIN 1",
+          "streak": "LOSS 1",
           "roster": [
             {
               "name": "James Cook III",
@@ -1934,7 +1934,7 @@
               "slot": "RB",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 106.2,
+              "points": 112.3,
               "projected": 95.98
             },
             {
@@ -1992,10 +1992,10 @@
               "position": "WR",
               "pro_team": "MIN",
               "slot": "IR",
-              "injury_status": "OUT",
+              "injury_status": "DOUBTFUL",
               "acquisition": "DRAFT",
               "points": 44.9,
-              "projected": 67.47
+              "projected": 57.53
             },
             {
               "name": "Dallas Goedert",
@@ -2015,7 +2015,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 36.0,
-              "projected": 68.2
+              "projected": 68.23
             },
             {
               "name": "Denzel Boston",
@@ -2035,7 +2035,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 67.6,
-              "projected": 42.99
+              "projected": 43.01
             },
             {
               "name": "Rams D/ST",
@@ -2706,20 +2706,72 @@
             "home": "The Ghosts of CCI",
             "home_id": 1,
             "home_owner": "Zack Galpern",
-            "home_score": 0.0,
+            "home_score": 90.14,
             "away": "301's Finest",
             "away_id": 7,
             "away_owner": "Victor Barkley",
-            "away_score": 0.0
+            "away_score": 95.66
           },
           {
             "home": "J's Finest Team",
             "home_id": 2,
             "home_owner": "J B",
-            "home_score": 0.0,
+            "home_score": 124.5,
             "away": "Flavia Futbol (not soccer)",
             "away_id": 9,
             "away_owner": "flavia Perez",
+            "away_score": 58.56
+          },
+          {
+            "home": "Andrew Athletes",
+            "home_id": 3,
+            "home_owner": "Andrew York",
+            "home_score": 73.48,
+            "away": "Tuafinity and Bijan",
+            "away_id": 4,
+            "away_owner": "Nathaniel Stoffle",
+            "away_score": 111.36
+          },
+          {
+            "home": "Better than Oliver's Team",
+            "home_id": 5,
+            "home_owner": "Justin Janawitz",
+            "home_score": 102.6,
+            "away": "Oliver's Ominous Team",
+            "away_id": 11,
+            "away_owner": "Oliver Faa",
+            "away_score": 108.7
+          },
+          {
+            "home": "Matthew's Marvelous Team",
+            "home_id": 6,
+            "home_owner": "Matthew Sharp",
+            "home_score": 89.04,
+            "away": "Zack's Decent Team",
+            "away_id": 10,
+            "away_owner": "Zack Bal",
+            "away_score": 122.62
+          },
+          {
+            "home": "Logan's Loud Team",
+            "home_id": 8,
+            "home_owner": "Logan Starr",
+            "home_score": 118.18,
+            "away": "Suraj's Smart Team",
+            "away_id": 12,
+            "away_owner": "Suraj Edara",
+            "away_score": 82.84
+          }
+        ],
+        "12": [
+          {
+            "home": "The Ghosts of CCI",
+            "home_id": 1,
+            "home_owner": "Zack Galpern",
+            "home_score": 0.0,
+            "away": "J's Finest Team",
+            "away_id": 2,
+            "away_owner": "J B",
             "away_score": 0.0
           },
           {
@@ -2727,9 +2779,19 @@
             "home_id": 3,
             "home_owner": "Andrew York",
             "home_score": 0.0,
-            "away": "Tuafinity and Bijan",
-            "away_id": 4,
-            "away_owner": "Nathaniel Stoffle",
+            "away": "Zack's Decent Team",
+            "away_id": 10,
+            "away_owner": "Zack Bal",
+            "away_score": 0.0
+          },
+          {
+            "home": "Tuafinity and Bijan",
+            "home_id": 4,
+            "home_owner": "Nathaniel Stoffle",
+            "home_score": 0.0,
+            "away": "Flavia Futbol (not soccer)",
+            "away_id": 9,
+            "away_owner": "flavia Perez",
             "away_score": 0.0
           },
           {
@@ -2737,19 +2799,19 @@
             "home_id": 5,
             "home_owner": "Justin Janawitz",
             "home_score": 0.0,
-            "away": "Oliver's Ominous Team",
-            "away_id": 11,
-            "away_owner": "Oliver Faa",
+            "away": "Matthew's Marvelous Team",
+            "away_id": 6,
+            "away_owner": "Matthew Sharp",
             "away_score": 0.0
           },
           {
-            "home": "Matthew's Marvelous Team",
-            "home_id": 6,
-            "home_owner": "Matthew Sharp",
+            "home": "301's Finest",
+            "home_id": 7,
+            "home_owner": "Victor Barkley",
             "home_score": 0.0,
-            "away": "Zack's Decent Team",
-            "away_id": 10,
-            "away_owner": "Zack Bal",
+            "away": "Suraj's Smart Team",
+            "away_id": 12,
+            "away_owner": "Suraj Edara",
             "away_score": 0.0
           },
           {
@@ -2757,9 +2819,9 @@
             "home_id": 8,
             "home_owner": "Logan Starr",
             "home_score": 0.0,
-            "away": "Suraj's Smart Team",
-            "away_id": 12,
-            "away_owner": "Suraj Edara",
+            "away": "Oliver's Ominous Team",
+            "away_id": 11,
+            "away_owner": "Oliver Faa",
             "away_score": 0.0
           }
         ]
@@ -2770,7 +2832,7 @@
       "name": "ETU League B",
       "placeholder": false,
       "espn_name": "ETU Sports: CTECH Conference",
-      "current_week": 11,
+      "current_week": 12,
       "teams": [
         {
           "id": 1,
@@ -2778,13 +2840,13 @@
           "abbrev": "DDT",
           "owner": "Derrick Adams",
           "logo": "https://g.espncdn.com/lm-static/logo-packs/ffl/CreepShow-ToddDetwiler/CreepShow-07b.svg",
-          "wins": 6,
+          "wins": 7,
           "losses": 4,
           "ties": 0,
-          "points_for": 1115.48,
-          "points_against": 1032.38,
-          "standing": 5,
-          "streak": "WIN 1",
+          "points_for": 1215.32,
+          "points_against": 1093.18,
+          "standing": 4,
+          "streak": "WIN 2",
           "roster": [
             {
               "name": "Jonathan Taylor",
@@ -2794,7 +2856,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 156.6,
-              "projected": 76.06
+              "projected": 76.52
             },
             {
               "name": "Nico Collins",
@@ -2814,7 +2876,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 142.8,
-              "projected": 69.46
+              "projected": 69.47
             },
             {
               "name": "Jaylen Waddle",
@@ -2824,7 +2886,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 74.6,
-              "projected": 62.55
+              "projected": 62.59
             },
             {
               "name": "David Montgomery",
@@ -2864,7 +2926,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 186.7,
-              "projected": 137.78
+              "projected": 137.8
             },
             {
               "name": "Jared Goff",
@@ -2901,10 +2963,10 @@
               "position": "WR",
               "pro_team": "NYJ",
               "slot": "BE",
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "ADD",
               "points": 52.6,
-              "projected": 43.37
+              "projected": 43.36
             },
             {
               "name": "Tyler Bass",
@@ -2954,13 +3016,13 @@
           "abbrev": "JGT",
           "owner": "J T",
           "logo": "https://g.espncdn.com/lm-static/logo-packs/core/DIS_Avengers_EndGame/DIS_Avengers_EndGame_Ironman.svg",
-          "wins": 3,
+          "wins": 4,
           "losses": 7,
           "ties": 0,
-          "points_for": 818.2,
-          "points_against": 1064.38,
+          "points_for": 915.36,
+          "points_against": 1097.48,
           "standing": 11,
-          "streak": "WIN 1",
+          "streak": "WIN 2",
           "roster": [
             {
               "name": "Omarion Hampton",
@@ -3111,12 +3173,12 @@
           "owner": "Grant Esler",
           "logo": "https://g.espncdn.com/lm-static/ffl/images/default_logos/20.svg",
           "wins": 7,
-          "losses": 3,
+          "losses": 4,
           "ties": 0,
-          "points_for": 1047.5,
-          "points_against": 976.02,
-          "standing": 3,
-          "streak": "WIN 1",
+          "points_for": 1108.3,
+          "points_against": 1075.86,
+          "standing": 5,
+          "streak": "LOSS 1",
           "roster": [
             {
               "name": "James Cook III",
@@ -3226,7 +3288,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 102.0,
-              "projected": 50.29
+              "projected": 50.31
             },
             {
               "name": "Mike Gesicki",
@@ -3235,7 +3297,7 @@
               "slot": "TE",
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
-              "points": 72.1,
+              "points": 82.3,
               "projected": 42.92
             },
             {
@@ -3276,13 +3338,13 @@
           "abbrev": "BMS",
           "owner": "Ashvij Hosdurg",
           "logo": "https://mystique-api.fantasy.espn.com/apis/v1/domains/lm/images/f2610980-a656-11f1-adbb-af55773333bb",
-          "wins": 9,
+          "wins": 10,
           "losses": 1,
           "ties": 0,
-          "points_for": 1147.42,
-          "points_against": 988.5,
+          "points_for": 1253.12,
+          "points_against": 1060.0,
           "standing": 1,
-          "streak": "WIN 8",
+          "streak": "WIN 9",
           "roster": [
             {
               "name": "Christian McCaffrey",
@@ -3341,7 +3403,7 @@
               "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 232.3,
+              "points": 252.2,
               "projected": 163.04
             },
             {
@@ -3352,7 +3414,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 97.7,
-              "projected": 59.33
+              "projected": 59.37
             },
             {
               "name": "Dallas Goedert",
@@ -3372,7 +3434,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 225.16,
-              "projected": 142.92
+              "projected": 142.91
             },
             {
               "name": "Eddy Pineiro",
@@ -3412,7 +3474,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 76.8,
-              "projected": 57.84
+              "projected": 57.96
             },
             {
               "name": "Bills D/ST",
@@ -3422,7 +3484,7 @@
               "injury_status": "NORMAL",
               "acquisition": "ADD",
               "points": 61.0,
-              "projected": 42.27
+              "projected": 42.28
             }
           ]
         },
@@ -3432,13 +3494,13 @@
           "abbrev": "JST",
           "owner": "Jason Serwitz",
           "logo": "https://g.espncdn.com/lm-static/ffl/images/default_logos/1.svg",
-          "wins": 4,
+          "wins": 5,
           "losses": 6,
           "ties": 0,
-          "points_for": 910.0,
-          "points_against": 1026.42,
-          "standing": 10,
-          "streak": "LOSS 1",
+          "points_for": 992.94,
+          "points_against": 1089.68,
+          "standing": 7,
+          "streak": "WIN 1",
           "roster": [
             {
               "name": "CeeDee Lamb",
@@ -3448,7 +3510,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 208.2,
-              "projected": 99.22
+              "projected": 99.29
             },
             {
               "name": "Saquon Barkley",
@@ -3508,7 +3570,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 51.1,
-              "projected": 50.19
+              "projected": 47.27
             },
             {
               "name": "RJ Harvey",
@@ -3518,7 +3580,7 @@
               "injury_status": "INJURY_RESERVE",
               "acquisition": "DRAFT",
               "points": 54.9,
-              "projected": 0.0
+              "projected": 42.68
             },
             {
               "name": "Zach Charbonnet",
@@ -3598,7 +3660,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 67.6,
-              "projected": 42.99
+              "projected": 43.01
             }
           ]
         },
@@ -3608,13 +3670,13 @@
           "abbrev": "CG",
           "owner": "Chad Hudak",
           "logo": "https://g.espncdn.com/lm-static/logo-packs/ffl/1stStringAllStars-SportsManias-WR/chase-01.svg",
-          "wins": 7,
+          "wins": 8,
           "losses": 3,
           "ties": 0,
-          "points_for": 1138.4,
-          "points_against": 945.22,
+          "points_for": 1279.46,
+          "points_against": 1047.6,
           "standing": 2,
-          "streak": "WIN 6",
+          "streak": "WIN 7",
           "roster": [
             {
               "name": "Ja'Marr Chase",
@@ -3623,8 +3685,8 @@
               "slot": "WR",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 161.8,
-              "projected": 147.37
+              "points": 167.4,
+              "projected": 147.38
             },
             {
               "name": "Ashton Jeanty",
@@ -3634,7 +3696,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 152.1,
-              "projected": 83.76
+              "projected": 83.77
             },
             {
               "name": "Javonte Williams",
@@ -3644,7 +3706,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 177.4,
-              "projected": 84.16
+              "projected": 84.18
             },
             {
               "name": "Davante Adams",
@@ -3700,7 +3762,7 @@
               "name": "Matthew Golden",
               "position": "WR",
               "pro_team": "GB",
-              "slot": "BE",
+              "slot": "WR",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 146.9,
@@ -3730,11 +3792,11 @@
               "name": "Ryan Flournoy",
               "position": "WR",
               "pro_team": "DAL",
-              "slot": "WR",
+              "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 85.5,
-              "projected": 37.99
+              "projected": 38.03
             },
             {
               "name": "Tank Dell",
@@ -3754,7 +3816,7 @@
               "injury_status": "OUT",
               "acquisition": "ADD",
               "points": 45.2,
-              "projected": 17.5
+              "projected": 14.64
             },
             {
               "name": "Chase McLaughlin",
@@ -3785,12 +3847,12 @@
           "owner": "Ansley Maye",
           "logo": "https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_15.svg",
           "wins": 4,
-          "losses": 6,
+          "losses": 7,
           "ties": 0,
-          "points_for": 951.62,
-          "points_against": 964.28,
-          "standing": 9,
-          "streak": "LOSS 5",
+          "points_for": 1014.88,
+          "points_against": 1047.22,
+          "standing": 10,
+          "streak": "LOSS 6",
           "roster": [
             {
               "name": "Jahmyr Gibbs",
@@ -3810,17 +3872,17 @@
               "injury_status": "INJURY_RESERVE",
               "acquisition": "DRAFT",
               "points": 47.9,
-              "projected": 41.26
+              "projected": 41.25
             },
             {
               "name": "Brock Bowers",
               "position": "TE",
               "pro_team": "LV",
               "slot": "BE",
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 124.8,
-              "projected": 79.59
+              "projected": 79.58
             },
             {
               "name": "Emeka Egbuka",
@@ -3830,7 +3892,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 65.3,
-              "projected": 59.99
+              "projected": 60.0
             },
             {
               "name": "Rome Odunze",
@@ -3850,7 +3912,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 58.0,
-              "projected": 27.0
+              "projected": 18.24
             },
             {
               "name": "Jordan Mason",
@@ -3860,14 +3922,14 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 36.0,
-              "projected": 68.2
+              "projected": 68.23
             },
             {
               "name": "Woody Marks",
               "position": "RB",
               "pro_team": "HOU",
               "slot": "BE",
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 70.4,
               "projected": 51.32
@@ -3880,7 +3942,7 @@
               "injury_status": "NORMAL",
               "acquisition": "ADD",
               "points": 75.0,
-              "projected": 47.35
+              "projected": 46.72
             },
             {
               "name": "Spencer Shrader",
@@ -3890,7 +3952,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 113.0,
-              "projected": 56.31
+              "projected": 56.32
             },
             {
               "name": "Jayden Daniels",
@@ -3899,7 +3961,7 @@
               "slot": "QB",
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
-              "points": 135.96,
+              "points": 153.02,
               "projected": 143.98
             },
             {
@@ -3920,7 +3982,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 57.5,
-              "projected": 38.1
+              "projected": 38.08
             },
             {
               "name": "Mack Hollins",
@@ -3961,12 +4023,12 @@
           "owner": "Elizabeth Hugenberg",
           "logo": "https://g.espncdn.com/lm-static/logo-packs/ffl/1stStringAllStars-SportsManias-WR/stbrown-01.svg",
           "wins": 4,
-          "losses": 6,
+          "losses": 7,
           "ties": 0,
-          "points_for": 990.08,
-          "points_against": 1036.78,
-          "standing": 8,
-          "streak": "LOSS 3",
+          "points_for": 1066.56,
+          "points_against": 1118.24,
+          "standing": 9,
+          "streak": "LOSS 4",
           "roster": [
             {
               "name": "Amon-Ra St. Brown",
@@ -3985,7 +4047,7 @@
               "slot": "RB",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 106.2,
+              "points": 112.3,
               "projected": 95.98
             },
             {
@@ -4006,7 +4068,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 94.9,
-              "projected": 102.05
+              "projected": 102.04
             },
             {
               "name": "Jalen Hurts",
@@ -4023,7 +4085,7 @@
               "position": "WR",
               "pro_team": "HOU",
               "slot": "BE",
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 32.0,
               "projected": 40.01
@@ -4033,7 +4095,7 @@
               "position": "TE",
               "pro_team": "DET",
               "slot": "TE",
-              "injury_status": "ACTIVE",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 85.4,
               "projected": 63.01
@@ -4056,14 +4118,14 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 78.0,
-              "projected": 66.49
+              "projected": 66.51
             },
             {
               "name": "Rachaad White",
               "position": "RB",
               "pro_team": "WSH",
               "slot": "BE",
-              "injury_status": "QUESTIONABLE",
+              "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 66.4,
               "projected": 48.32
@@ -4086,7 +4148,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 100.2,
-              "projected": 42.73
+              "projected": 42.72
             },
             {
               "name": "Fernando Mendoza",
@@ -4136,13 +4198,13 @@
           "abbrev": "WATT",
           "owner": "Chris Kastritis",
           "logo": "https://g.espncdn.com/lm-static/ffl/images/default_logos/4.svg",
-          "wins": 6,
+          "wins": 7,
           "losses": 4,
           "ties": 0,
-          "points_for": 1160.86,
-          "points_against": 1049.7,
-          "standing": 4,
-          "streak": "LOSS 2",
+          "points_for": 1242.32,
+          "points_against": 1126.18,
+          "standing": 3,
+          "streak": "WIN 1",
           "roster": [
             {
               "name": "Jaxon Smith-Njigba",
@@ -4192,7 +4254,7 @@
               "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 145.3,
-              "projected": 106.41
+              "projected": 106.36
             },
             {
               "name": "Dak Prescott",
@@ -4232,7 +4294,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 105.0,
-              "projected": 65.36
+              "projected": 65.37
             },
             {
               "name": "Broncos D/ST",
@@ -4242,14 +4304,14 @@
               "injury_status": "NORMAL",
               "acquisition": "DRAFT",
               "points": 68.0,
-              "projected": 43.78
+              "projected": 43.6
             },
             {
               "name": "Dalton Kincaid",
               "position": "TE",
               "pro_team": "BUF",
               "slot": "BE",
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 76.7,
               "projected": 49.74
@@ -4292,7 +4354,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 29.0,
-              "projected": 15.39
+              "projected": 15.38
             },
             {
               "name": "Elic Ayomanor",
@@ -4313,12 +4375,12 @@
           "owner": "Jamie Kornheiser",
           "logo": "https://g.espncdn.com/lm-static/logo-packs/core/StadiumFoods-ESPN/stadium-foods_soft-pretzel.svg",
           "wins": 5,
-          "losses": 5,
+          "losses": 6,
           "ties": 0,
-          "points_for": 1180.96,
-          "points_against": 1045.06,
+          "points_for": 1283.34,
+          "points_against": 1186.12,
           "standing": 6,
-          "streak": "LOSS 1",
+          "streak": "LOSS 2",
           "roster": [
             {
               "name": "Justin Jefferson",
@@ -4328,17 +4390,17 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 101.8,
-              "projected": 112.34
+              "projected": 112.62
             },
             {
               "name": "Kenneth Walker III",
               "position": "RB",
               "pro_team": "KC",
               "slot": "BE",
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 183.4,
-              "projected": 152.17
+              "projected": 152.16
             },
             {
               "name": "DeVonta Smith",
@@ -4348,7 +4410,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 62.6,
-              "projected": 72.71
+              "projected": 72.7
             },
             {
               "name": "D'Andre Swift",
@@ -4358,7 +4420,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 152.7,
-              "projected": 89.79
+              "projected": 89.8
             },
             {
               "name": "Christian Watson",
@@ -4368,7 +4430,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 157.6,
-              "projected": 85.33
+              "projected": 85.34
             },
             {
               "name": "Isaiah Likely",
@@ -4388,7 +4450,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 111.0,
-              "projected": 81.05
+              "projected": 80.96
             },
             {
               "name": "Jordan Love",
@@ -4428,7 +4490,7 @@
               "injury_status": "NORMAL",
               "acquisition": "ADD",
               "points": 61.0,
-              "projected": 44.12
+              "projected": 44.2
             },
             {
               "name": "Tyler Higbee",
@@ -4447,7 +4509,7 @@
               "slot": "WR",
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
-              "points": 58.6,
+              "points": 75.3,
               "projected": 52.52
             },
             {
@@ -4458,7 +4520,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 45.7,
-              "projected": 39.71
+              "projected": 36.91
             },
             {
               "name": "Samaje Perine",
@@ -4467,7 +4529,7 @@
               "slot": "RB",
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
-              "points": 52.8,
+              "points": 64.5,
               "projected": 50.88
             }
           ]
@@ -4479,12 +4541,12 @@
           "owner": "Jared Alexander",
           "logo": "https://g.espncdn.com/lm-static/ffl/images/default_logos/5.svg",
           "wins": 4,
-          "losses": 6,
+          "losses": 7,
           "ties": 0,
-          "points_for": 1015.12,
-          "points_against": 1046.9,
-          "standing": 7,
-          "streak": "WIN 2",
+          "points_for": 1086.62,
+          "points_against": 1152.6,
+          "standing": 8,
+          "streak": "LOSS 1",
           "roster": [
             {
               "name": "Bijan Robinson",
@@ -4504,7 +4566,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 143.1,
-              "projected": 73.29
+              "projected": 73.34
             },
             {
               "name": "Lamar Jackson",
@@ -4533,7 +4595,7 @@
               "slot": "WR",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 144.9,
+              "points": 156.2,
               "projected": 96.46
             },
             {
@@ -4544,7 +4606,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 134.1,
-              "projected": 99.66
+              "projected": 98.41
             },
             {
               "name": "DK Metcalf",
@@ -4563,7 +4625,7 @@
               "slot": "BE",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 92.6,
+              "points": 99.1,
               "projected": 77.1
             },
             {
@@ -4571,7 +4633,7 @@
               "position": "RB",
               "pro_team": "GB",
               "slot": "BE",
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 38.3,
               "projected": 87.56
@@ -4581,10 +4643,10 @@
               "position": "TE",
               "pro_team": "DAL",
               "slot": "BE",
-              "injury_status": "OUT",
+              "injury_status": "QUESTIONABLE",
               "acquisition": "DRAFT",
               "points": 45.1,
-              "projected": 22.63
+              "projected": 18.75
             },
             {
               "name": "Jacory Croskey-Merritt",
@@ -4593,7 +4655,7 @@
               "slot": "IR",
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
-              "points": 42.4,
+              "points": 57.1,
               "projected": 50.93
             },
             {
@@ -4634,7 +4696,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
               "points": 91.0,
-              "projected": 73.16
+              "projected": 73.15
             },
             {
               "name": "Chig Okonkwo",
@@ -4643,7 +4705,7 @@
               "slot": "TE",
               "injury_status": "ACTIVE",
               "acquisition": "ADD",
-              "points": 37.8,
+              "points": 46.4,
               "projected": 54.37
             }
           ]
@@ -4655,12 +4717,12 @@
           "owner": "Danielle Sanghani",
           "logo": "https://g.espncdn.com/lm-static/ffl/images/default_logos/18.svg",
           "wins": 1,
-          "losses": 9,
+          "losses": 10,
           "ties": 0,
-          "points_for": 737.3,
-          "points_against": 1037.3,
+          "points_for": 770.4,
+          "points_against": 1134.46,
           "standing": 12,
-          "streak": "LOSS 1",
+          "streak": "LOSS 2",
           "roster": [
             {
               "name": "Puka Nacua",
@@ -4690,7 +4752,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 132.6,
-              "projected": 83.69
+              "projected": 83.68
             },
             {
               "name": "Colston Loveland",
@@ -4750,7 +4812,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 20.4,
-              "projected": 16.81
+              "projected": 16.82
             },
             {
               "name": "Josh Downs",
@@ -4800,7 +4862,7 @@
               "injury_status": "ACTIVE",
               "acquisition": "DRAFT",
               "points": 89.3,
-              "projected": 125.71
+              "projected": 105.23
             },
             {
               "name": "Chiefs D/ST",
@@ -5441,10 +5503,72 @@
             "home": "T-Law and Order",
             "home_id": 1,
             "home_owner": "Derrick Adams",
-            "home_score": 0.0,
+            "home_score": 99.84,
             "away": "Honey I Shrunk the TreVeyon's",
             "away_id": 3,
             "away_owner": "Grant Esler",
+            "away_score": 60.8
+          },
+          {
+            "home": "Jacob's Greatest Team",
+            "home_id": 2,
+            "home_owner": "J T",
+            "home_score": 97.16,
+            "away": "DOS Team",
+            "away_id": 12,
+            "away_owner": "Danielle Sanghani",
+            "away_score": 33.1
+          },
+          {
+            "home": "Blue Mountain State",
+            "home_id": 4,
+            "home_owner": "Ashvij Hosdurg",
+            "home_score": 105.7,
+            "away": "Bijan and the Eastside Boys",
+            "away_id": 11,
+            "away_owner": "Jared Alexander",
+            "away_score": 71.5
+          },
+          {
+            "home": "Jason's Scary Team",
+            "home_id": 5,
+            "home_owner": "Jason Serwitz",
+            "home_score": 82.94,
+            "away": "Baby Back Gibbs",
+            "away_id": 7,
+            "away_owner": "Ansley Maye",
+            "away_score": 63.26
+          },
+          {
+            "home": "Chasing Greatness",
+            "home_id": 6,
+            "home_owner": "Chad Hudak",
+            "home_score": 141.06,
+            "away": "Korn's Confident Contenders",
+            "away_id": 10,
+            "away_owner": "Jamie Kornheiser",
+            "away_score": 102.38
+          },
+          {
+            "home": "Hannah Amontana",
+            "home_id": 8,
+            "home_owner": "Elizabeth Hugenberg",
+            "home_score": 76.48,
+            "away": "We're Allen This Together",
+            "away_id": 9,
+            "away_owner": "Chris Kastritis",
+            "away_score": 81.46
+          }
+        ],
+        "12": [
+          {
+            "home": "T-Law and Order",
+            "home_id": 1,
+            "home_owner": "Derrick Adams",
+            "home_score": 0.0,
+            "away": "Chasing Greatness",
+            "away_id": 6,
+            "away_owner": "Chad Hudak",
             "away_score": 0.0
           },
           {
@@ -5452,9 +5576,19 @@
             "home_id": 2,
             "home_owner": "J T",
             "home_score": 0.0,
-            "away": "DOS Team",
-            "away_id": 12,
-            "away_owner": "Danielle Sanghani",
+            "away": "Korn's Confident Contenders",
+            "away_id": 10,
+            "away_owner": "Jamie Kornheiser",
+            "away_score": 0.0
+          },
+          {
+            "home": "Honey I Shrunk the TreVeyon's",
+            "home_id": 3,
+            "home_owner": "Grant Esler",
+            "home_score": 0.0,
+            "away": "Hannah Amontana",
+            "away_id": 8,
+            "away_owner": "Elizabeth Hugenberg",
             "away_score": 0.0
           },
           {
@@ -5462,9 +5596,9 @@
             "home_id": 4,
             "home_owner": "Ashvij Hosdurg",
             "home_score": 0.0,
-            "away": "Bijan and the Eastside Boys",
-            "away_id": 11,
-            "away_owner": "Jared Alexander",
+            "away": "We're Allen This Together",
+            "away_id": 9,
+            "away_owner": "Chris Kastritis",
             "away_score": 0.0
           },
           {
@@ -5472,29 +5606,19 @@
             "home_id": 5,
             "home_owner": "Jason Serwitz",
             "home_score": 0.0,
-            "away": "Baby Back Gibbs",
-            "away_id": 7,
-            "away_owner": "Ansley Maye",
+            "away": "DOS Team",
+            "away_id": 12,
+            "away_owner": "Danielle Sanghani",
             "away_score": 0.0
           },
           {
-            "home": "Chasing Greatness",
-            "home_id": 6,
-            "home_owner": "Chad Hudak",
+            "home": "Baby Back Gibbs",
+            "home_id": 7,
+            "home_owner": "Ansley Maye",
             "home_score": 0.0,
-            "away": "Korn's Confident Contenders",
-            "away_id": 10,
-            "away_owner": "Jamie Kornheiser",
-            "away_score": 0.0
-          },
-          {
-            "home": "Hannah Amontana",
-            "home_id": 8,
-            "home_owner": "Elizabeth Hugenberg",
-            "home_score": 0.0,
-            "away": "We're Allen This Together",
-            "away_id": 9,
-            "away_owner": "Chris Kastritis",
+            "away": "Bijan and the Eastside Boys",
+            "away_id": 11,
+            "away_owner": "Jared Alexander",
             "away_score": 0.0
           }
         ]
